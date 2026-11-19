@@ -55,7 +55,7 @@ The site is built for the bold path and earns on the safe path from day one.
 
 1. The brand is always written **Healthy.Life** (with the dot, as the domain name). Never "Healthylife", "HealthyLife" or "Healthy Life" as a brand.
 2. No retail, pharmacy, telehealth, supplements or food products are sold under the name.
-3. Own visual identity (pulse-ring mark, coral and deep-green palette); nothing borrowed from any similarly named business.
+3. Own visual identity (score-ring mark; spruce, beet and lemon palette); nothing borrowed from any similarly named business.
 4. A Trademark & Copyright disclosure is linked from every footer (`legal.html`) and summarised in the footer itself.
 5. All text, code, illustrations and calculators are original. News items are headline + source + link only. Videos are official embeds that stay the property of their creators.
 
