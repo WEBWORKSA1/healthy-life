@@ -1,1 +1,125 @@
-{"updated": "", "items": []}
+{
+ "updated": "2026-11-19T11:18:02.238540+00:00",
+ "items": [
+  {
+   "product": "Little Temptations, Chocolatey Eyeballs (Hazelnut Praline Chocolatey Eyeballs ) Spooks and Spells, The product comes in the following sizes: Card Header Bag - 1",
+   "reason": "Product packaging mix-up. Product containing whey (milk), were distributed in packaging that did not reveal the presence of milk.",
+   "firm": "Crystal Temptations",
+   "state": "NJ",
+   "class": "Class II",
+   "date": "2026-11-11"
+  },
+  {
+   "product": "Boner Bears Chocolate Syrup, Serving size 15g, Dosage: Consume 1 Piece At Least 1 Hour Prior To Activity. Do Not Exceed 1 Piece In Any 48 Hour Period, MANUFACTU",
+   "reason": "FDA analysis revealed the presence of undeclared sildenafil.",
+   "firm": "Lockout Industries, Llc",
+   "state": "TX",
+   "class": "Class I",
+   "date": "2026-11-11"
+  },
+  {
+   "product": "ParaBien Al Grano with UPC: 0 21425 01513 4",
+   "reason": "Contains undeclared sesame",
+   "firm": "Pan Pepin, Inc.",
+   "state": "PR",
+   "class": "Class I",
+   "date": "2026-11-11"
+  },
+  {
+   "product": "DTF SEXUAL CHOCOLATES, UPC CODE: 757817783069, Supplier Part Number: DTF-BAR-20CT, Manufactured by or for Megladon, LLC. 2 bars per package, 22 packages per box",
+   "reason": "Product contains undeclared sildenafil and tadalafil.",
+   "firm": "Nalpac Ltd.",
+   "state": "MI",
+   "class": "Class I",
+   "date": "2026-11-11"
+  },
+  {
+   "product": "Miyoko's Creamery European Style Salted Plant Milk Butter, Net Wt. 8 OZ (227G). UPC 857554005773. Distributed By: Prosperity Organic Foods, Inc. Boise, Idaho 83",
+   "reason": "Product recalled due to yeast, mold, and E. coli.",
+   "firm": "Prosperity Organic Foods Inc",
+   "state": "ID",
+   "class": "Class II",
+   "date": "2026-11-04"
+  },
+  {
+   "product": "ZestiGreens Broccoli Seeds for Sprouting & Microgreens; 8 OZ; Heirloom Broccoli Seeds. SKU: X004IOM4AJ ZestiGreens Broccoli Seeds for Sprouting & Microgreens; 1",
+   "reason": "Broccoli seeds potentially contaminated with Salmonella",
+   "firm": "Fortuna Marketing, Inc",
+   "state": "CA",
+   "class": "Class I",
+   "date": "2026-11-04"
+  },
+  {
+   "product": "Jovy Gummy Worms Neon; packaged in 1lb plastic units. UPC 712199083411",
+   "reason": "undeclared allergen ingredient (Red#40, Yellow#5, Yellow#6, Blue#1)",
+   "firm": "El Ruisenor De Mexico, Inc.",
+   "state": "CA",
+   "class": "Class II",
+   "date": "2026-10-28"
+  },
+  {
+   "product": "Fritura mixed dry fruit; packed in a clear plastic 1lb, 5lb, 25lb unit sizes. no UPC",
+   "reason": "undeclared allergen ingredient (Wheat, Yellow #5, Yellow #6)",
+   "firm": "El Ruisenor De Mexico, Inc.",
+   "state": "CA",
+   "class": "Class II",
+   "date": "2026-10-28"
+  },
+  {
+   "product": "Textured Soy Protein; packaged in 1lb, 5lb, 33lb clear plastic units. No UPC",
+   "reason": "undeclared allergen ingredient (Soy)",
+   "firm": "El Ruisenor De Mexico, Inc.",
+   "state": "CA",
+   "class": "Class III",
+   "date": "2026-10-28"
+  },
+  {
+   "product": "Churro Mix; packed in a clear plastic 1lb, 5lb, 50lb unit sizes. no UPC",
+   "reason": "undeclared allergen ingredient (Egg, Wheat)",
+   "firm": "El Ruisenor De Mexico, Inc.",
+   "state": "CA",
+   "class": "Class II",
+   "date": "2026-10-28"
+  },
+  {
+   "product": "Jovy Gummy Bears Regular; packed in a clear plastic 1lb unit sizes. UPC: UPC 712199085156",
+   "reason": "undeclared allergen ingredient (Red#40, Yellow#5, Yellow#6, Blue#1)",
+   "firm": "El Ruisenor De Mexico, Inc.",
+   "state": "CA",
+   "class": "Class II",
+   "date": "2026-10-28"
+  },
+  {
+   "product": "Almonds in Shell; packed in a clear plastic bag. 1lb, 5lb, 50lb unit size. No UPC",
+   "reason": "undeclared allergen ingredient (Almond)",
+   "firm": "El Ruisenor De Mexico, Inc.",
+   "state": "CA",
+   "class": "Class III",
+   "date": "2026-10-28"
+  },
+  {
+   "product": "Wheat Bran; packaged in 1lb, 5lb, 50lb clear plastic units. No UPC",
+   "reason": "undeclared allergen ingredient (Wheat)",
+   "firm": "El Ruisenor De Mexico, Inc.",
+   "state": "CA",
+   "class": "Class III",
+   "date": "2026-10-28"
+  },
+  {
+   "product": "Great Value Fruit Cocktail in Fruit Juice from Concentrate NET WT 15 OZ (425g) DISTRIBUTED BY: Walmart Inc., Bentonville, AR 72716 UPC: 078742369570",
+   "reason": "Potential contamination with elevated levels of lead.",
+   "firm": "Pacific Coast Producers",
+   "state": "CA",
+   "class": "Class II",
+   "date": "2026-10-28"
+  },
+  {
+   "product": "Dried Diced Pineapple; packaged in 1lb, 5lb, 44lb clear plastic units. No UPC",
+   "reason": "undeclared allergen ingredient (Sulfites)",
+   "firm": "El Ruisenor De Mexico, Inc.",
+   "state": "CA",
+   "class": "Class II",
+   "date": "2026-10-28"
+  }
+ ]
+}
