@@ -1,26 +1,12 @@
 {
- "updated": "2026-11-19T11:20:00.472888+00:00",
+ "updated": "2026-11-19T11:22:37.164112+00:00",
  "items": [
-  {
-   "id": "p4sPrWyY2Tk",
-   "title": "Together We Can Eliminate Cervical Cancer",
-   "channel": "World Health Organization",
-   "date": "2026-11-19T08:03:03+00:00",
-   "pillar": "prevent"
-  },
   {
    "id": "Z2K55BvWUnY",
    "title": "Antimicrobial Resistance (AMR) threatens our health, food security, economies and planet.",
    "channel": "World Health Organization",
    "date": "2026-11-19T07:58:59+00:00",
    "pillar": "nourish"
-  },
-  {
-   "id": "nYDUjxyEeEM",
-   "title": "No child should die from the cold.",
-   "channel": "World Health Organization",
-   "date": "2026-11-19T07:55:58+00:00",
-   "pillar": "prevent"
   },
   {
    "id": "4s6fphlXkBg",
@@ -37,25 +23,11 @@
    "pillar": "nourish"
   },
   {
-   "id": "HTQqFputYVc",
-   "title": "Craniofacial Planning & Reconstruction, Neurosurgical Navigation",
-   "channel": "Mayo Clinic",
-   "date": "2026-11-18T22:04:46+00:00",
-   "pillar": "prevent"
-  },
-  {
    "id": "XkWsFHE_eTU",
    "title": "Sleep Disorders in Pregnancy: Part 1: S10-Ep2",
    "channel": "Mayo Clinic",
    "date": "2026-11-18T22:03:01+00:00",
    "pillar": "sleep"
-  },
-  {
-   "id": "8JAm8qgTDKc",
-   "title": "Cal Ripken Jr. & Jim Palmer Step Up to the Plate for Prostate Cancer Awareness",
-   "channel": "Johns Hopkins Medicine",
-   "date": "2026-11-18T19:49:31+00:00",
-   "pillar": "prevent"
   },
   {
    "id": "vwcTYqoNoRw",
@@ -65,10 +37,10 @@
    "pillar": "move"
   },
   {
-   "id": "dcfAytSG_Dg",
-   "title": "Executive Health Provider Derrick Blackwell, DO",
-   "channel": "Cleveland Clinic",
-   "date": "2026-11-18T17:57:16+00:00",
+   "id": "7pGCRPvKBXA",
+   "title": "Your Allergies Might Prevent Cancer",
+   "channel": "SciShow",
+   "date": "2026-11-18T18:00:04+00:00",
    "pillar": "prevent"
   },
   {
@@ -79,20 +51,6 @@
    "pillar": "move"
   },
   {
-   "id": "gpk3NKAczfM",
-   "title": "Orthopaedic Surgeon Youssra Marjoua, MD",
-   "channel": "Cleveland Clinic",
-   "date": "2026-11-18T16:15:01+00:00",
-   "pillar": "prevent"
-  },
-  {
-   "id": "nTd6X6FjeA8",
-   "title": "Orthopaedic Surgeon Nicholas Scarcella, MD",
-   "channel": "Cleveland Clinic",
-   "date": "2026-11-18T16:09:31+00:00",
-   "pillar": "prevent"
-  },
-  {
    "id": "XCNbKmdKab8",
    "title": "A Gentle Breathing Exercise to Cultivate Kindness and Compassion",
    "channel": "Headspace",
@@ -100,11 +58,11 @@
    "pillar": "mind"
   },
   {
-   "id": "D1I3ee1XCbc",
-   "title": "Doctor Reacts To Devastating Anime Injuries",
-   "channel": "Doctor Mike",
-   "date": "2026-11-18T14:16:05+00:00",
-   "pillar": "prevent"
+   "id": "8JdklWtkL84",
+   "title": "How ‘Set Point Theory’ Complicates Weight Loss | Peminda Cabandugama, MD",
+   "channel": "Cleveland Clinic",
+   "date": "2026-11-18T14:00:31+00:00",
+   "pillar": "nourish"
   },
   {
    "id": "UaDsi9JHW80",
@@ -163,25 +121,11 @@
    "pillar": "move"
   },
   {
-   "id": "0K2T_-zs_XM",
-   "title": "Allosteric Modulators of Dopamine Transporter as Therapeutic Agents for NeuroAIDS",
-   "channel": "Johns Hopkins Medicine",
-   "date": "2026-11-17T13:03:24+00:00",
-   "pillar": "prevent"
-  },
-  {
-   "id": "qUYdWjn0Yjc",
-   "title": "Meet Dr. Margot Le Neveu | Urogynecologist",
-   "channel": "Johns Hopkins Medicine",
-   "date": "2026-11-17T12:46:39+00:00",
-   "pillar": "prevent"
-  },
-  {
-   "id": "jWQO4wTNzns",
-   "title": "Has Gen Z stopped dating???",
-   "channel": "Doctor Mike",
-   "date": "2026-11-16T16:19:07+00:00",
-   "pillar": "prevent"
+   "id": "I2lB0ixcWSU",
+   "title": "Obesity Pharmacotherapy with Dr. Kristina Thurber",
+   "channel": "Mayo Clinic",
+   "date": "2026-11-17T16:42:08+00:00",
+   "pillar": "nourish"
   },
   {
    "id": "bizObaPxNz0",
@@ -198,10 +142,10 @@
    "pillar": "move"
   },
   {
-   "id": "eWbqAlfB03g",
-   "title": "Former Tinder Expert Went on 343 Dates. Here's What She Learned",
-   "channel": "Doctor Mike",
-   "date": "2026-11-15T15:00:01+00:00",
+   "id": "CzXbxoyFoc0",
+   "title": "Type 2 Diabetes: Which Medication Should Come First?",
+   "channel": "Cleveland Clinic",
+   "date": "2026-11-16T11:01:41+00:00",
    "pillar": "prevent"
   },
   {
@@ -275,13 +219,6 @@
    "pillar": "nourish"
   },
   {
-   "id": "MaBVz7Nb5-o",
-   "title": "Webinar: Evidence Review Presentation on PPE use and TBP for Respiratory Viruses",
-   "channel": "CDC",
-   "date": "2026-11-10T15:40:42+00:00",
-   "pillar": "prevent"
-  },
-  {
    "id": "2dn-mcgyC8s",
    "title": "7 Minute Morning Meditation | Stillness to Start Your Day.",
    "channel": "Yoga With Adriene",
@@ -289,18 +226,25 @@
    "pillar": "move"
   },
   {
-   "id": "0nljgecE2NY",
-   "title": "Stay Healthy and Fight Drug-Resistant Infections",
-   "channel": "CDC",
-   "date": "2026-11-10T13:46:17+00:00",
-   "pillar": "prevent"
-  },
-  {
    "id": "phGyIN1Fw_c",
    "title": "Can Green Juice Treat Cancer? Facts about Alternative and Complementary Treatments",
    "channel": "Healthcare Triage",
    "date": "2026-11-09T20:29:58+00:00",
    "pillar": "prevent"
+  },
+  {
+   "id": "rqG47JhRmyg",
+   "title": "Neuroretinal Layer Thinning on OCT Imaging and Hemoglobin A1c in Youth with Type 1 Diabetes",
+   "channel": "Johns Hopkins Medicine",
+   "date": "2026-11-09T18:34:25+00:00",
+   "pillar": "prevent"
+  },
+  {
+   "id": "HMN37MLK5kw",
+   "title": "Sohail Zahid, MD, PhD | Genome Analysis of Clinical Obesity Identifies Lipoprotein Lipase Variants",
+   "channel": "Johns Hopkins Medicine",
+   "date": "2026-11-09T16:01:01+00:00",
+   "pillar": "nourish"
   },
   {
    "id": "lb6TfuOeeYE",
@@ -401,6 +345,20 @@
    "pillar": "move"
   },
   {
+   "id": "KRPp696PvgE",
+   "title": "Talk to Nathan: Thinking About Prostate Cancer Screening",
+   "channel": "CDC",
+   "date": "2026-10-23T13:56:57+00:00",
+   "pillar": "prevent"
+  },
+  {
+   "id": "cXPxFBdpHRQ",
+   "title": "Talk to Nathan: Prostate Cancer Screening Basics",
+   "channel": "CDC",
+   "date": "2026-10-23T13:55:32+00:00",
+   "pillar": "prevent"
+  },
+  {
    "id": "db8LDkP0m90",
    "title": "Cancer Myths Busted!",
    "channel": "Healthcare Triage",
@@ -420,6 +378,13 @@
    "channel": "Healthcare Triage",
    "date": "2026-10-14T20:30:08+00:00",
    "pillar": "prevent"
+  },
+  {
+   "id": "aA9EI3NKUS4",
+   "title": "Find Your Flexibility | Full Body Yoga",
+   "channel": "Yoga With Adriene",
+   "date": "2026-10-13T14:00:06+00:00",
+   "pillar": "move"
   }
  ]
 }
