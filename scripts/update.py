@@ -29,9 +29,24 @@ PILLAR_WORDS = [
     ("mind", r"\b(stress|anxiety|depress\w+|mental|mindful\w+|burnout|mood|wellbeing|well-being|meditation)\b"),
     ("move", r"\b(exercis\w+|walking|walk|steps|fitness|workout|physical activity|running|strength|sedentary|sitting|yoga)\b"),
     ("nourish", r"\b(diet\w*|nutrition\w*|food|foods|eating|sugar\w*|protein|fib(re|er)|vegetables?|fruit|processed|vitamin\w*|coffee|salt|sodium|hydration|meal\w*|obesity|weight)\b"),
+    ("prevent", r"\b(blood pressure|hypertension|cholesterol|heart (health|disease|attack)|diabetes|prediabetes|screening\w*|vaccin\w+|prevent\w*|check-?ups?|smoking|tobacco|vaping|alcohol|sunscreen|skin cancer|hand ?washing|healthy ag(e)?ing|longevity|stroke|flu|immun\w+)\b"),
 ]
+# Topic searches return anything; only these publishers are shown.
+TRUSTED = {"harvard health", "healthline", "medical news today", "cnn", "the new york times", "the washington post", "npr", "bbc", "the guardian",
+           "reuters", "ap news", "associated press", "time", "time magazine", "scientific american", "new scientist", "nature", "science", "the conversation",
+           "sciencedaily", "medical xpress", "news-medical", "eurekalert!", "everyday health", "verywell health", "verywell mind", "verywell fit", "health",
+           "prevention", "women's health", "men's health", "self", "eatingwell", "sleep foundation", "national geographic", "cbs news", "nbc news", "abc news",
+           "usa today", "forbes", "fortune", "cnbc", "psychology today", "medscape", "stat", "the independent", "the telegraph", "cbc", "global news", "ctv news",
+           "the globe and mail", "today.com", "today", "axios", "vox", "the atlantic", "wired", "popular science", "smithsonian magazine", "world health organization (who)",
+           "american heart association", "national institutes of health (nih) (.gov)", "cdc", "nhs", "webmd", "yahoo", "runner's world", "outside magazine", "bbc science focus magazine"}
+TRUSTED_PARTS = ("university", "clinic", "hospital", "medical school", "school of medicine", "school of public health", "medicine", "institutes of health", ".gov", ".edu", "health system", "college")
+
+
+def trusted(source):
+    low = source.lower().strip()
+    return low in TRUSTED or any(part in low for part in TRUSTED_PARTS)
 # Keep the feed suitable for a general audience and for advertising policies.
-BLOCK = re.compile(r"\b(sex\w*|porn\w*|rape\w*|shooting|murder\w*|suicid\w*|own life|abortion\w*|overdose\w*|kill\w*|dead|dies|died|death\w*|war|nude|gambling|casino|abus\w+|assault\w*|stabb\w+|lawsuit\w*|sued|court|trump|biden|congress|senate|election\w*|medicaid|strike|scandal\w*|inquest|inquiry)\b", re.I)
+BLOCK = re.compile(r"\b(sex\w*|porn\w*|rape\w*|shooting|murder\w*|suicid\w*|own life|abortion\w*|overdose\w*|kill\w*|dead|die|dies|died|dying|death\w*|war|nude|gambling|casino|abus\w+|assault\w*|stabb\w+|lawsuit\w*|sued|court|trump|biden|congress|senate|election\w*|medicaid|strike|scandal\w*|inquest|inquiry)\b", re.I)
 
 
 def fetch(url, timeout=25):
@@ -53,7 +68,7 @@ def to_iso(text):
         return email.utils.parsedate_to_datetime(text).astimezone(datetime.timezone.utc).isoformat()
     except (TypeError, ValueError, IndexError):
         pass
-    for fmt in ("%a, %d %b %Y %H:%M:%S Z", "%a, %d %b %Y %H:%M:%S", "%d %b %Y %H:%M:%S", "%Y-%m-%d %H:%M:%S", "%Y-%m-%d", "%B %d, %Y", "%d %B %Y"):
+    for fmt in ("%a, %m/%d/%Y - %H:%M", "%a, %d %b %Y %H:%M:%S Z", "%a, %d %b %Y %H:%M:%S", "%d %b %Y %H:%M:%S", "%Y-%m-%d %H:%M:%S", "%Y-%m-%d", "%B %d, %Y", "%d %B %Y"):
         try:
             return datetime.datetime.strptime(text, fmt).replace(tzinfo=datetime.timezone.utc).isoformat()
         except ValueError:
@@ -92,6 +107,8 @@ def parse_feed(raw, feed):
                 source = clean(src.text)
                 if title.endswith(" - " + source):
                     title = title[: -len(source) - 3]
+                if not trusted(source):
+                    continue
         out.append((title, link, source, date))
     for it in root.iter(ATOM + "entry"):
         title = clean(it.findtext(ATOM + "title"))
@@ -197,7 +214,7 @@ def refresh_videos(status):
             if not vid or not title or date < cutoff or BLOCK.search(title) or "#shorts" in title.lower():
                 continue
             # broad channels are sorted video by video; off-topic uploads are skipped
-            pillar = pillar_for(title, "prevent" if ch["pillar"] == "prevent" else None) if ch.get("byTitle") else ch["pillar"]
+            pillar = pillar_for(title, None) if ch.get("byTitle") else ch["pillar"]
             if not pillar:
                 continue
             items.append({"id": vid, "title": title[:120], "channel": ch["name"], "date": date, "pillar": pillar})
