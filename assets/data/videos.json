@@ -1,6 +1,27 @@
 {
- "updated": "2026-11-19T11:22:37.164112+00:00",
+ "updated": "2026-11-19T20:50:11.945103+00:00",
  "items": [
+  {
+   "id": "8isgngFdsPo",
+   "title": "Want to keep your shoulder healthy? Try this rotator cuff exercise.",
+   "channel": "Bob & Brad",
+   "date": "2026-11-19T17:00:12+00:00",
+   "pillar": "move"
+  },
+  {
+   "id": "1-HUpU7D8Ho",
+   "title": "A Nonsurgical Weight-Loss Option: Endoscopic Sleeve Gastroplasty (ESG) at Mayo Clinic",
+   "channel": "Mayo Clinic",
+   "date": "2026-11-19T16:30:30+00:00",
+   "pillar": "nourish"
+  },
+  {
+   "id": "NcJ9DztfyTY",
+   "title": "10 Minute Balance Follow Along Workout",
+   "channel": "Bob & Brad",
+   "date": "2026-11-19T16:00:34+00:00",
+   "pillar": "move"
+  },
   {
    "id": "Z2K55BvWUnY",
    "title": "Antimicrobial Resistance (AMR) threatens our health, food security, economies and planet.",
@@ -44,13 +65,6 @@
    "pillar": "prevent"
   },
   {
-   "id": "Zj6wpjtzcqU",
-   "title": "Once you understand this, you can start to walk without back pain.",
-   "channel": "Bob & Brad",
-   "date": "2026-11-18T17:00:33+00:00",
-   "pillar": "move"
-  },
-  {
    "id": "XCNbKmdKab8",
    "title": "A Gentle Breathing Exercise to Cultivate Kindness and Compassion",
    "channel": "Headspace",
@@ -86,13 +100,6 @@
    "pillar": "mind"
   },
   {
-   "id": "V_s-uqSiJ5c",
-   "title": "(LIVE) Strengthening for Knee Pain",
-   "channel": "Bob & Brad",
-   "date": "2026-11-18T05:09:50+00:00",
-   "pillar": "move"
-  },
-  {
    "id": "Gio8zEwISws",
    "title": "Why a Simple Question Stumps You After a Morning of Meetings",
    "channel": "Dr. Tracey Marks",
@@ -121,13 +128,6 @@
    "pillar": "move"
   },
   {
-   "id": "I2lB0ixcWSU",
-   "title": "Obesity Pharmacotherapy with Dr. Kristina Thurber",
-   "channel": "Mayo Clinic",
-   "date": "2026-11-17T16:42:08+00:00",
-   "pillar": "nourish"
-  },
-  {
    "id": "bizObaPxNz0",
    "title": "#1 Best At-Home Test for Fatty Liver",
    "channel": "Nutrition Made Simple",
@@ -140,13 +140,6 @@
    "channel": "MadFit",
    "date": "2026-11-16T15:00:07+00:00",
    "pillar": "move"
-  },
-  {
-   "id": "CzXbxoyFoc0",
-   "title": "Type 2 Diabetes: Which Medication Should Come First?",
-   "channel": "Cleveland Clinic",
-   "date": "2026-11-16T11:01:41+00:00",
-   "pillar": "prevent"
   },
   {
    "id": "XKU_GZc6H8Y",
