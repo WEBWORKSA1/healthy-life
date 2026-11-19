@@ -4,49 +4,40 @@
   "handle": "@who",
   "id": "UC07-dOwgza1IguKA86jqxNA",
   "pillar": "prevent",
-  "about": "Global public-health explainers and briefings"
+  "about": "Global public-health explainers and briefings",
+  "byTitle": true
  },
  {
   "name": "CDC",
   "handle": "@CDCgov",
   "id": "UCiMg06DjcUk5FRiM3g5sqoQ",
   "pillar": "prevent",
-  "about": "U.S. public-health guidance and prevention advice"
- },
- {
-  "name": "NHS",
-  "handle": "@NHSEngland",
-  "id": "",
-  "pillar": "prevent",
-  "about": "Plain-language health advice from the UK health service"
+  "about": "U.S. public-health guidance and prevention advice",
+  "byTitle": true
  },
  {
   "name": "Mayo Clinic",
   "handle": "@mayoclinic",
   "id": "UC8fQzKHIhSoZeSq3bwQx4mw",
   "pillar": "prevent",
-  "about": "Clinicians explaining conditions, tests and healthy living"
+  "about": "Clinicians explaining conditions, tests and healthy living",
+  "byTitle": true
  },
  {
   "name": "Cleveland Clinic",
   "handle": "@ClevelandClinic",
   "id": "UCxyiSz4m161Z6frOsFxJpgw",
   "pillar": "prevent",
-  "about": "Short answers to common health questions"
+  "about": "Short answers to common health questions",
+  "byTitle": true
  },
  {
   "name": "Johns Hopkins Medicine",
   "handle": "@JohnsHopkinsMedicine",
   "id": "UCATNzbTbfeoMhNonZGZmrhA",
   "pillar": "prevent",
-  "about": "Specialists on prevention and treatment"
- },
- {
-  "name": "American Heart Association",
-  "handle": "@americanheartassociation",
-  "id": "",
-  "pillar": "prevent",
-  "about": "Heart health, blood pressure and CPR"
+  "about": "Specialists on prevention and treatment",
+  "byTitle": true
  },
  {
   "name": "Yoga With Adriene",
@@ -75,13 +66,6 @@
   "id": "UCmTe0LsfEbpkDpgrxKAWbRA",
   "pillar": "move",
   "about": "Physical therapists on aches, mobility and exercise"
- },
- {
-  "name": "Walk at Home",
-  "handle": "@WalkAtHome",
-  "id": "",
-  "pillar": "move",
-  "about": "Indoor walking workouts"
  },
  {
   "name": "Pick Up Limes",
@@ -130,27 +114,52 @@
   "handle": "@TEDEd",
   "id": "UCsooa4yRKGN_zEE8iknghZA",
   "pillar": "sleep",
-  "about": "Animated lessons, including many on sleep and the body"
+  "about": "Animated lessons, including many on sleep and the body",
+  "byTitle": true
  },
  {
   "name": "SciShow",
   "handle": "@SciShow",
   "id": "UCZYTClx2T1of7BRZ86-8fow",
   "pillar": "sleep",
-  "about": "Science explainers on sleep, food and the body"
+  "about": "Science explainers on sleep, food and the body",
+  "byTitle": true
  },
  {
   "name": "Kurzgesagt",
   "handle": "@kurzgesagt",
   "id": "UCsXVk37bltHxD1rDPwtNM8Q",
   "pillar": "connect",
-  "about": "Animated science, including loneliness and wellbeing"
+  "about": "Animated science, including loneliness and wellbeing",
+  "byTitle": true
  },
  {
   "name": "Doctor Mike",
   "handle": "@DoctorMike",
   "id": "UC0QHWhjbe5fGJEPz3sVb6nw",
   "pillar": "prevent",
-  "about": "A family doctor on health claims and checkups"
+  "about": "A family doctor on health claims and checkups",
+  "byTitle": true
+ },
+ {
+  "name": "MadFit",
+  "handle": "@MadFit",
+  "id": "UCpQ34afVgk8cRQBjSJ1xuJQ",
+  "pillar": "move",
+  "about": "Short follow-along home workouts"
+ },
+ {
+  "name": "Jeff Nippard",
+  "handle": "@JeffNippard",
+  "id": "UC68TLK0mAEzUyHx5x5k-S1Q",
+  "pillar": "move",
+  "about": "Evidence-based strength training"
+ },
+ {
+  "name": "Healthcare Triage",
+  "handle": "@healthcaretriage",
+  "id": "UCabaQPYxxKepWUsEVQMT4Kw",
+  "pillar": "prevent",
+  "about": "A physician explaining health research and policy"
  }
 ]

@@ -29,45 +29,38 @@
  },
  {
   "name": "Harvard Health",
-  "url": "https://www.health.harvard.edu/blog/feed",
-  "home": "https://www.health.harvard.edu/blog",
-  "about": "Evidence-based health explainers",
-  "kind": "rss"
+  "url": "",
+  "home": "https://www.health.harvard.edu/",
+  "about": "Evidence-based health explainers from Harvard Medical School",
+  "kind": ""
  },
  {
   "name": "ScienceDaily",
   "url": "https://www.sciencedaily.com/rss/health_medicine.xml",
   "home": "https://www.sciencedaily.com/news/health_medicine/",
   "about": "New health and medicine studies",
-  "kind": "rss"
+  "kind": "rss:topic"
  },
  {
   "name": "NPR Health",
   "url": "https://feeds.npr.org/1128/rss.xml",
   "home": "https://www.npr.org/sections/health/",
   "about": "Health reporting",
-  "kind": "rss"
+  "kind": "rss:topic"
  },
  {
   "name": "BBC Health",
   "url": "https://feeds.bbci.co.uk/news/health/rss.xml",
   "home": "https://www.bbc.com/news/health",
   "about": "Health reporting",
-  "kind": "rss"
- },
- {
-  "name": "KFF Health News",
-  "url": "https://kffhealthnews.org/feed/",
-  "home": "https://kffhealthnews.org/",
-  "about": "Health policy reporting",
-  "kind": "rss"
+  "kind": "rss:topic"
  },
  {
   "name": "The Conversation",
   "url": "https://theconversation.com/us/health/articles.atom",
   "home": "https://theconversation.com/us/health",
   "about": "Academics explaining health research",
-  "kind": "rss"
+  "kind": "rss:topic"
  },
  {
   "name": "MedlinePlus",
@@ -92,7 +85,7 @@
  },
  {
   "name": "Topic: healthy eating research",
-  "url": "https://news.google.com/rss/search?q=%22healthy+eating%22+OR+nutrition+study+when:7d&hl=en-US&gl=US&ceid=US:en",
+  "url": "https://news.google.com/rss/search?q=nutrition+OR+diet+study+health+when:7d&hl=en-US&gl=US&ceid=US:en",
   "home": "",
   "about": "",
   "kind": "gnews:nourish"

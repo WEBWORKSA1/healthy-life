@@ -31,7 +31,7 @@ PILLAR_WORDS = [
     ("nourish", r"\b(diet\w*|nutrition\w*|food|foods|eating|sugar\w*|protein|fib(re|er)|vegetables?|fruit|processed|vitamin\w*|coffee|salt|sodium|hydration|meal\w*|obesity|weight)\b"),
 ]
 # Keep the feed suitable for a general audience and for advertising policies.
-BLOCK = re.compile(r"\b(sex\w*|porn\w*|rape\w*|shooting|murder\w*|suicid\w*|abortion\w*|overdose\w*|kill\w*|dead|death toll|war|nude|gambling|casino)\b", re.I)
+BLOCK = re.compile(r"\b(sex\w*|porn\w*|rape\w*|shooting|murder\w*|suicid\w*|own life|abortion\w*|overdose\w*|kill\w*|dead|dies|died|death\w*|war|nude|gambling|casino|abus\w+|assault\w*|stabb\w+|lawsuit\w*|sued|court|trump|biden|congress|senate|election\w*|medicaid|strike|scandal\w*|inquest|inquiry)\b", re.I)
 
 
 def fetch(url, timeout=25):
@@ -53,6 +53,11 @@ def to_iso(text):
         return email.utils.parsedate_to_datetime(text).astimezone(datetime.timezone.utc).isoformat()
     except (TypeError, ValueError, IndexError):
         pass
+    for fmt in ("%a, %d %b %Y %H:%M:%S Z", "%a, %d %b %Y %H:%M:%S", "%d %b %Y %H:%M:%S", "%Y-%m-%d %H:%M:%S", "%Y-%m-%d", "%B %d, %Y", "%d %B %Y"):
+        try:
+            return datetime.datetime.strptime(text, fmt).replace(tzinfo=datetime.timezone.utc).isoformat()
+        except ValueError:
+            pass
     try:
         d = datetime.datetime.fromisoformat(text.replace("Z", "+00:00"))
         if d.tzinfo is None:
@@ -101,8 +106,10 @@ def parse_feed(raw, feed):
     for title, link, source, date in out:
         if not title or not link.startswith("http") or len(title) < 15 or BLOCK.search(title):
             continue
-        items.append({"title": title[:180], "url": link, "source": source, "date": date,
-                      "pillar": forced or pillar_for(title)})
+        pillar = forced or pillar_for(title, None if kind == "rss:topic" else "prevent")
+        if not pillar:      # general news desks: keep only healthy-living stories
+            continue
+        items.append({"title": title[:180], "url": link, "source": source, "date": date, "pillar": pillar})
     return items
 
 
@@ -120,7 +127,7 @@ def save(name, data):
 
 def refresh_news(status):
     feeds = json.loads((ROOT / "content/data/feeds.json").read_text(encoding="utf-8"))
-    cutoff = (NOW - datetime.timedelta(days=21)).isoformat()
+    cutoff = (NOW - datetime.timedelta(days=45)).isoformat()
     items, seen = [], set()
     for feed in feeds:
         if not feed.get("url"):
@@ -142,6 +149,8 @@ def refresh_news(status):
             if kept >= cap:
                 break
         status["feeds"][feed["name"]] = "ok: %d" % kept
+        if not kept:        # leave a clue for debugging: how many items came back and how the first one is dated
+            status["feeds"][feed["name"]] += " (parsed %d; first date %r)" % (len(got), got[0]["date"] if got else None)
     items.sort(key=lambda x: x["date"], reverse=True)
     old = load("news.json", {"items": []})
     if not items:
@@ -187,7 +196,11 @@ def refresh_videos(status):
             date = to_iso(entry.findtext(ATOM + "published"))
             if not vid or not title or date < cutoff or BLOCK.search(title) or "#shorts" in title.lower():
                 continue
-            items.append({"id": vid, "title": title[:120], "channel": ch["name"], "date": date, "pillar": ch["pillar"]})
+            # broad channels are sorted video by video; off-topic uploads are skipped
+            pillar = pillar_for(title, "prevent" if ch["pillar"] == "prevent" else None) if ch.get("byTitle") else ch["pillar"]
+            if not pillar:
+                continue
+            items.append({"id": vid, "title": title[:120], "channel": ch["name"], "date": date, "pillar": pillar})
             kept += 1
             if kept >= 3:
                 break
