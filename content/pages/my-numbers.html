@@ -1,0 +1,28 @@
+{
+ "title": "My numbers: every health number from one profile",
+ "description": "Enter your age, height and weight once and see BMI, healthy weight range, calories, protein, water, heart-rate zones and sleep need together. Stored only in your browser.",
+ "kind": "core",
+ "crumb": "My numbers",
+ "scripts": [
+  "tools.js",
+  "numbers.js"
+ ],
+ "keywords": "health dashboard, my health numbers"
+}
+---
+<div class="wrap page">
+{{crumbs}}
+<header class="page-head">
+<h1>My numbers</h1>
+<p class="lead">One profile in, every number out. Change anything and the whole page updates.</p>
+<p class="privacy-line">Saved in this browser only. Clear it at any time with the button at the bottom.</p>
+</header>
+<div class="panel" style="margin-bottom:2rem" data-numbers>
+<noscript><p class="empty">This page needs JavaScript to calculate your numbers.</p></noscript>
+</div>
+<section class="prose">
+<h2>Reading the page</h2>
+<p>Each tile links to the full tool, where you will find the formula, its limits and its sources. Results from tools that need extra measurements, such as blood pressure, A1C or body fat, appear under "Saved from other tools" after you use them.</p>
+<p>These are screening estimates for adults. They are not a diagnosis, and they cannot account for pregnancy, medical conditions or medicines.</p>
+</section>
+</div>

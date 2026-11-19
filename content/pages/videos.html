@@ -1,0 +1,38 @@
+{
+ "title": "Health and fitness videos from trusted channels",
+ "description": "The latest free workouts, healthy cooking, sleep, stress and prevention videos from public-health bodies, clinics and qualified creators, updated automatically.",
+ "kind": "core",
+ "nav": "videos",
+ "crumb": "Videos",
+ "keywords": "health videos, free workout videos, yoga videos, healthy cooking videos"
+}
+---
+<div class="wrap page">
+{{crumbs}}
+<header class="page-head">
+<h1>Watch</h1>
+<p class="lead">New videos from health organisations, clinics and qualified creators, gathered by pillar.</p>
+<p class="muted">Refreshed automatically. Last update: {{videos_updated}}. Videos play from YouTube in privacy-enhanced mode and remain the property of their creators.</p>
+</header>
+<div class="filter-row" data-filter-for="videos" role="group" aria-label="Filter videos by pillar">
+<button type="button" class="chip" data-value="all" aria-pressed="true">All</button>
+<button type="button" class="chip" data-value="move" aria-pressed="false">Move</button>
+<button type="button" class="chip" data-value="nourish" aria-pressed="false">Nourish</button>
+<button type="button" class="chip" data-value="sleep" aria-pressed="false">Sleep</button>
+<button type="button" class="chip" data-value="mind" aria-pressed="false">Mind</button>
+<button type="button" class="chip" data-value="connect" aria-pressed="false">Connect</button>
+<button type="button" class="chip" data-value="prevent" aria-pressed="false">Prevent</button>
+</div>
+<div id="videos">{{videos_all}}</div>
+{{ad_content}}
+<section style="margin-top:3rem">
+<h2>Channels we follow</h2>
+<p class="muted">Chosen because they are run by health bodies or clinics, or by creators with relevant qualifications who cite evidence. Inclusion is not a paid placement.</p>
+<div id="channels">{{channels}}</div>
+</section>
+<section class="prose" style="margin-top:3rem">
+<h2>Before you follow along</h2>
+<p>Exercise videos cannot see you. Start with beginner options, stop if anything hurts, and check with a health professional first if you have a heart, joint or balance problem, are pregnant, or are returning after illness. Nutrition and health videos are general education, not personal advice.</p>
+</section>
+{{plan_cta}}
+</div>

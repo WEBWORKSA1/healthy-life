@@ -1,0 +1,197 @@
+{
+ "title": "Healthy.Life: know your numbers, build your healthy life",
+ "h1": "Healthy.Life home",
+ "description": "Free health calculators, a 3-minute Healthy Life Score and a 30-day plan built around your own numbers. No account, nothing leaves your browser.",
+ "kind": "core",
+ "scripts": [
+  "tools.js"
+ ],
+ "keywords": "health calculators, healthy life score, healthy living plan"
+}
+---
+<section class="hero">
+<div class="wrap hero-grid">
+<div>
+<h1>Know your numbers. Build your healthy life.</h1>
+<p class="lead">One profile runs {{tool_count}} health calculators, scores six pillars of how you live and writes you a free 30-day plan. No account. Nothing leaves your browser.</p>
+<div class="btn-row"><a class="btn btn-accent" href="/score.html">Get my Healthy Life Score</a><a class="btn btn-light" href="/tools.html">Browse all tools</a></div>
+</div>
+<div class="panel">
+<h2>Try it: enter three things</h2>
+<div data-tool="hero"><noscript><p class="empty">The live calculator needs JavaScript. All formulas are explained on the tool pages.</p></noscript></div>
+<p class="privacy-line">Stays on this device. We never see it.</p>
+</div>
+</div>
+</section>
+
+<section class="section">
+<div class="wrap split">
+<div>
+<h2>Today</h2>
+<div class="today-box" data-today><p class="muted">Loading today's small step.</p></div>
+</div>
+<div>
+<h2>In {{month_name}}</h2>
+{{obs_month}}
+<p style="margin-top:.75rem"><a href="/calendar.html">Health awareness calendar for the whole year</a></p>
+</div>
+</div>
+</section>
+
+<section class="section section-mist">
+<div class="wrap">
+<div class="section-head"><h2>Six pillars, one picture</h2><p>Health is not one number. Every tool, guide and challenge here belongs to one of six pillars, and your score covers them all.</p></div>
+<ul class="pillars">
+<li data-pillar="move"><strong><span class="dot"></span>Move</strong><span>Activity, strength and sitting less</span></li>
+<li data-pillar="nourish"><strong><span class="dot"></span>Nourish</strong><span>Eating and drinking well</span></li>
+<li data-pillar="sleep"><strong><span class="dot"></span>Sleep</strong><span>Rest, rhythm and recovery</span></li>
+<li data-pillar="mind"><strong><span class="dot"></span>Mind</strong><span>Stress, focus and habits</span></li>
+<li data-pillar="connect"><strong><span class="dot"></span>Connect</strong><span>People, purpose and belonging</span></li>
+<li data-pillar="prevent"><strong><span class="dot"></span>Prevent</strong><span>Checkups, numbers and risks</span></li>
+</ul>
+</div>
+</section>
+
+<section class="section">
+<div class="wrap">
+<div class="section-head"><h2>How it works</h2><p>Three steps, about five minutes, and you can stop after any of them.</p></div>
+<ol class="steps">
+<li><strong>Enter your basics once</strong>Age, height and weight unlock most tools. Add waist and resting heart rate for the rest. <a href="/my-numbers.html">Open My numbers</a></li>
+<li><strong>Take the 3-minute score</strong>Eighteen questions about movement, food, sleep, stress, people and prevention give you a score out of 100. <a href="/score.html">Take the score</a></li>
+<li><strong>Get a 30-day plan</strong>We turn your lowest pillars into four weeks of small steps, with an optional introduction to a vetted professional. <a href="/plan.html">Build my plan</a></li>
+</ol>
+</div>
+</section>
+
+<section class="section section-mist">
+<div class="wrap">
+<div class="section-head"><h2>The tools people open first</h2><p><a href="/tools.html">See all {{tool_count}} tools</a></p></div>
+<ul class="link-list cols">
+<li><a href="/tools/bmi-calculator.html">BMI calculator</a><span>Your body mass index and healthy weight range.</span></li>
+<li><a href="/tools/tdee-calculator.html">Daily calorie calculator</a><span>What you burn in a day at five activity levels.</span></li>
+<li><a href="/tools/sleep-calculator.html">Sleep calculator</a><span>The best bedtime for your wake-up time.</span></li>
+<li><a href="/tools/blood-pressure-checker.html">Blood pressure checker</a><span>What your reading means and what to do next.</span></li>
+<li><a href="/tools/waist-to-height-ratio.html">Waist-to-height ratio</a><span>The simplest check of risky belly fat.</span></li>
+<li><a href="/tools/heart-rate-zones.html">Heart-rate zones</a><span>Your five training zones, including zone 2.</span></li>
+<li><a href="/tools/water-intake-calculator.html">Water intake calculator</a><span>How much to drink, adjusted for exercise and heat.</span></li>
+<li><a href="/tools/macro-calculator.html">Macro calculator</a><span>Protein, carbohydrate and fat in grams.</span></li>
+<li><a href="/tools/checkup-checklist.html">Checkup checklist</a><span>Screenings to ask about at your age.</span></li>
+<li><a href="/tools/breathing-timer.html">Breathing timer</a><span>Follow the circle for two calming minutes.</span></li>
+</ul>
+</div>
+</section>
+
+<section class="section">
+<div class="wrap split">
+<div>
+<h2>What is your Healthy Life Score?</h2>
+<p class="lead">A lifestyle self-check built on WHO, CDC and sleep-medicine guidelines. It shows which pillar would repay your effort most.</p>
+<ul>
+<li>Eighteen multiple-choice questions</li>
+<li>No weight, no medical history, no sign-up</li>
+<li>A score out of 100, six pillar scores and three focus areas</li>
+<li>Retake it monthly and watch the trend</li>
+</ul>
+<div class="btn-row"><a class="btn btn-accent" href="/score.html">Take the 3-minute check</a></div>
+</div>
+<div class="panel" aria-label="Example of a score result">
+<p class="muted">Example result</p>
+<div class="result-main"><span class="num">72</span><span class="unit">out of 100</span><span class="tag" style="--tag:var(--r-good)">Strong</span></div>
+<ul class="pillar-bars" style="margin-top:1.25rem">
+<li data-pillar="move"><span>Move</span><span class="bar"><i style="width:80%"></i></span><b>80</b></li>
+<li data-pillar="nourish"><span>Nourish</span><span class="bar"><i style="width:63%"></i></span><b>63</b></li>
+<li data-pillar="sleep"><span>Sleep</span><span class="bar"><i style="width:55%"></i></span><b>55</b></li>
+<li data-pillar="mind"><span>Mind</span><span class="bar"><i style="width:65%"></i></span><b>65</b></li>
+<li data-pillar="connect"><span>Connect</span><span class="bar"><i style="width:85%"></i></span><b>85</b></li>
+<li data-pillar="prevent"><span>Prevent</span><span class="bar"><i style="width:84%"></i></span><b>84</b></li>
+</ul>
+</div>
+</div>
+</section>
+
+<section class="hero" id="plan">
+<div class="wrap split">
+<div>
+<h2 style="color:#fff;font-size:clamp(1.8rem,4vw,2.8rem)">Your free 30-day Healthy Life Plan</h2>
+<p class="lead">Five short questions. A four-week plan appears on the page, built from your goals and your weakest pillars.</p>
+<div class="btn-row"><a class="btn btn-accent" href="/plan.html?from=home">Build my free plan</a></div>
+</div>
+<div>
+<ul>
+<li>Week by week, three small steps at a time</li>
+<li>Linked to the tools and guides that fit each step</li>
+<li>Print it or save it as a PDF</li>
+<li>Want a person in your corner? Ask for an introduction to up to three vetted coaches, dietitians or trainers</li>
+</ul>
+<p>Planning for a workplace? <a href="/teams.html">Healthy.Life for teams</a>. A health professional? <a href="/pros.html">Join the network</a>.</p>
+</div>
+</div>
+</section>
+
+<section class="section">
+<div class="wrap">
+<div class="section-head"><h2>Pick a challenge</h2><p>Tick off one small task a day. Your progress is saved in your browser, and finishing earns a certificate.</p></div>
+{{challenges_list}}
+</div>
+</section>
+
+{{ad_home}}
+
+<section class="section section-mist">
+<div class="wrap split">
+<div>
+<h2>Health Pulse</h2>
+<p class="muted">Headlines from public-health bodies and health desks, refreshed automatically. Last update: {{news_updated}}.</p>
+{{news_home}}
+<p style="margin-top:.75rem"><a href="/pulse.html">All headlines and food recalls</a></p>
+</div>
+<div>
+<h2>Start reading</h2>
+<ul class="link-list">
+<li><a href="/guides/know-your-numbers.html">Know your numbers: the six that matter</a><span>Blood pressure, cholesterol, blood sugar, waist, heart rate and weight.</span></li>
+<li><a href="/guides/how-much-exercise-do-you-need.html">How much exercise do you really need?</a><span>The weekly target and how to reach it from zero.</span></li>
+<li><a href="/guides/build-a-balanced-plate.html">Build a balanced plate</a><span>Eat well without counting anything.</span></li>
+<li><a href="/guides/sleep-habits-that-work.html">Sleep habits that work</a><span>Ten habits, ranked by impact.</span></li>
+<li><a href="/guides/habits-that-stick.html">Habits that stick</a><span>A five-step method backed by research.</span></li>
+</ul>
+<p style="margin-top:.75rem"><a href="/guides.html">All {{guide_count}} guides</a></p>
+</div>
+</div>
+</section>
+
+<section class="section">
+<div class="wrap">
+<div class="section-head"><h2>Watch</h2><p><a href="/videos.html">Latest videos from trusted health channels</a></p></div>
+{{videos_home}}
+</div>
+</section>
+
+<section class="section section-mist">
+<div class="wrap split">
+<div>
+<h2>This month's contest: <span data-contest="name">New Year Reset</span></h2>
+<p>Finish any challenge, tell us what changed and you could win <strong data-contest="prize">a prize</strong>. Entries close <span data-contest="closesText">soon</span>.</p>
+<div class="countdown" data-countdown aria-label="Time left to enter"></div>
+<div class="btn-row"><a class="btn" href="/contests.html">See how to enter</a></div>
+</div>
+<div>
+<h2>Keep Healthy.Life free</h2>
+<p>No paywall, no account, no selling your data. Reader support pays for hosting, new tools, expert reviewers, promotion and contest prizes.</p>
+<div class="btn-row"><a class="btn" href="/support.html">Support the project</a></div>
+</div>
+</div>
+</section>
+
+<section class="section">
+<div class="wrap two-col">
+<div>
+<h2>New tools and challenges, by email</h2>
+<p>One short email when something new launches, plus the monthly contest. Nothing else.</p>
+</div>
+<form class="form" data-form="newsletter" data-subject="Newsletter sign-up" data-done="You are on the list. Thank you.">
+<div class="field"><label for="nl-email">Email</label><input id="nl-email" type="email" name="email" required autocomplete="email"></div>
+<label class="check"><input type="checkbox" name="Agreed to emails" value="yes" required><span>Email me about new tools, challenges and contests. I can unsubscribe at any time. <a href="/privacy.html">Privacy policy</a></span></label>
+<button class="btn btn-accent" type="submit">Sign me up</button>
+</form>
+</div>
+</section>

@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /content/
+Disallow: /scripts/
+Disallow: /thank-you.html
+
+Sitemap: https://healthy.life/sitemap.xml

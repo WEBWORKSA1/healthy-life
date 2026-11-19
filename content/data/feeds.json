@@ -1,0 +1,128 @@
+[
+ {
+  "name": "World Health Organization",
+  "url": "https://www.who.int/rss-feeds/news-english.xml",
+  "home": "https://www.who.int/news",
+  "about": "Global health news and guidance",
+  "kind": "rss"
+ },
+ {
+  "name": "NIH",
+  "url": "https://www.nih.gov/news-releases/feed.xml",
+  "home": "https://www.nih.gov/news-events/news-releases",
+  "about": "U.S. medical research findings",
+  "kind": "rss"
+ },
+ {
+  "name": "CDC",
+  "url": "https://tools.cdc.gov/api/v2/resources/media/132608.rss",
+  "home": "https://www.cdc.gov/media/",
+  "about": "U.S. public-health announcements",
+  "kind": "rss"
+ },
+ {
+  "name": "FDA",
+  "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml",
+  "home": "https://www.fda.gov/news-events",
+  "about": "Food and medicine safety news",
+  "kind": "rss"
+ },
+ {
+  "name": "Harvard Health",
+  "url": "https://www.health.harvard.edu/blog/feed",
+  "home": "https://www.health.harvard.edu/blog",
+  "about": "Evidence-based health explainers",
+  "kind": "rss"
+ },
+ {
+  "name": "ScienceDaily",
+  "url": "https://www.sciencedaily.com/rss/health_medicine.xml",
+  "home": "https://www.sciencedaily.com/news/health_medicine/",
+  "about": "New health and medicine studies",
+  "kind": "rss"
+ },
+ {
+  "name": "NPR Health",
+  "url": "https://feeds.npr.org/1128/rss.xml",
+  "home": "https://www.npr.org/sections/health/",
+  "about": "Health reporting",
+  "kind": "rss"
+ },
+ {
+  "name": "BBC Health",
+  "url": "https://feeds.bbci.co.uk/news/health/rss.xml",
+  "home": "https://www.bbc.com/news/health",
+  "about": "Health reporting",
+  "kind": "rss"
+ },
+ {
+  "name": "KFF Health News",
+  "url": "https://kffhealthnews.org/feed/",
+  "home": "https://kffhealthnews.org/",
+  "about": "Health policy reporting",
+  "kind": "rss"
+ },
+ {
+  "name": "The Conversation",
+  "url": "https://theconversation.com/us/health/articles.atom",
+  "home": "https://theconversation.com/us/health",
+  "about": "Academics explaining health research",
+  "kind": "rss"
+ },
+ {
+  "name": "MedlinePlus",
+  "url": "",
+  "home": "https://medlineplus.gov/",
+  "about": "Trusted health topics from the U.S. National Library of Medicine",
+  "kind": ""
+ },
+ {
+  "name": "NHS Live Well",
+  "url": "",
+  "home": "https://www.nhs.uk/live-well/",
+  "about": "Healthy-living advice from the UK health service",
+  "kind": ""
+ },
+ {
+  "name": "MyHealthfinder",
+  "url": "",
+  "home": "https://odphp.health.gov/myhealthfinder",
+  "about": "Personalised preventive-care recommendations (U.S.)",
+  "kind": ""
+ },
+ {
+  "name": "Topic: healthy eating research",
+  "url": "https://news.google.com/rss/search?q=%22healthy+eating%22+OR+nutrition+study+when:7d&hl=en-US&gl=US&ceid=US:en",
+  "home": "",
+  "about": "",
+  "kind": "gnews:nourish"
+ },
+ {
+  "name": "Topic: exercise research",
+  "url": "https://news.google.com/rss/search?q=exercise+OR+%22physical+activity%22+study+health+when:7d&hl=en-US&gl=US&ceid=US:en",
+  "home": "",
+  "about": "",
+  "kind": "gnews:move"
+ },
+ {
+  "name": "Topic: sleep research",
+  "url": "https://news.google.com/rss/search?q=sleep+study+health+when:7d&hl=en-US&gl=US&ceid=US:en",
+  "home": "",
+  "about": "",
+  "kind": "gnews:sleep"
+ },
+ {
+  "name": "Topic: stress and wellbeing",
+  "url": "https://news.google.com/rss/search?q=stress+OR+mindfulness+OR+%22mental+wellbeing%22+study+when:7d&hl=en-US&gl=US&ceid=US:en",
+  "home": "",
+  "about": "",
+  "kind": "gnews:mind"
+ },
+ {
+  "name": "Topic: loneliness and connection",
+  "url": "https://news.google.com/rss/search?q=loneliness+OR+%22social+connection%22+health+study+when:14d&hl=en-US&gl=US&ceid=US:en",
+  "home": "",
+  "about": "",
+  "kind": "gnews:connect"
+ }
+]

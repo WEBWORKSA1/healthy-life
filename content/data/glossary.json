@@ -1,0 +1,310 @@
+[
+ {
+  "term": "A1C",
+  "def": "A blood test showing average blood glucose over about three months, given as a percentage. Under 5.7% is the normal range.",
+  "link": "/tools/a1c-converter.html",
+  "cta": "Convert an A1C"
+ },
+ {
+  "term": "Added sugars",
+  "def": "Sugars and syrups put into food during processing or at the table. Sugar naturally present in whole fruit and plain milk is not included.",
+  "link": "/guides/added-sugar.html",
+  "cta": "Where sugar hides"
+ },
+ {
+  "term": "Adequate intake",
+  "def": "A recommended daily amount of a nutrient, set when there is not enough evidence for a precise requirement. Water and fibre targets are adequate intakes."
+ },
+ {
+  "term": "Aerobic activity",
+  "def": "Movement that raises your heart rate and breathing for a sustained time, such as brisk walking, cycling or swimming.",
+  "link": "/guides/how-much-exercise-do-you-need.html",
+  "cta": "How much you need"
+ },
+ {
+  "term": "Basal metabolic rate (BMR)",
+  "def": "The energy your body uses at complete rest to stay alive, usually 60 to 70% of what you burn in a day.",
+  "link": "/tools/bmr-calculator.html",
+  "cta": "Calculate BMR"
+ },
+ {
+  "term": "Blood pressure",
+  "def": "The force of blood against artery walls, written as systolic over diastolic in mm Hg, for example 118/76.",
+  "link": "/tools/blood-pressure-checker.html",
+  "cta": "Check a reading"
+ },
+ {
+  "term": "Body mass index (BMI)",
+  "def": "Weight in kilograms divided by height in metres squared. A quick screening measure of weight for height.",
+  "link": "/tools/bmi-calculator.html",
+  "cta": "Calculate BMI"
+ },
+ {
+  "term": "Box breathing",
+  "def": "A paced breathing pattern: breathe in, hold, breathe out and hold again, each for four counts.",
+  "link": "/tools/breathing-timer.html",
+  "cta": "Try it"
+ },
+ {
+  "term": "Caffeine half-life",
+  "def": "The time your body takes to clear half the caffeine from a dose: about 5 hours in most adults, with wide variation.",
+  "link": "/tools/caffeine-cutoff-calculator.html",
+  "cta": "Find your cut-off"
+ },
+ {
+  "term": "Calorie (kcal)",
+  "def": "The unit of energy used for food and activity. Food labels show kilocalories, commonly just called calories."
+ },
+ {
+  "term": "Carbohydrate",
+  "def": "One of the three macronutrients, found in grains, fruit, vegetables, pulses and sugars. It provides 4 kcal per gram.",
+  "link": "/tools/macro-calculator.html",
+  "cta": "Macro calculator"
+ },
+ {
+  "term": "Cholesterol",
+  "def": "A fatty substance carried in the blood. LDL is the type linked with artery disease; HDL helps carry cholesterol away.",
+  "link": "/guides/know-your-numbers.html",
+  "cta": "Know your numbers"
+ },
+ {
+  "term": "Circadian rhythm",
+  "def": "Your internal 24-hour clock, set mainly by light, that times sleep, alertness, hormones and body temperature.",
+  "link": "/guides/sleep-habits-that-work.html",
+  "cta": "Sleep habits"
+ },
+ {
+  "term": "Diastolic pressure",
+  "def": "The bottom number in a blood pressure reading: the pressure in arteries while the heart rests between beats."
+ },
+ {
+  "term": "Dietary fibre",
+  "def": "The parts of plant foods your body cannot digest. It supports bowel health, blood sugar control and cholesterol.",
+  "link": "/guides/fibre.html",
+  "cta": "Fibre guide"
+ },
+ {
+  "term": "Estimated average glucose (eAG)",
+  "def": "An A1C result translated into the same units a glucose meter shows.",
+  "link": "/tools/a1c-converter.html",
+  "cta": "A1C converter"
+ },
+ {
+  "term": "Free sugars",
+  "def": "The WHO term for added sugars plus the sugars in honey, syrups and fruit juice.",
+  "link": "/guides/added-sugar.html",
+  "cta": "Added sugar guide"
+ },
+ {
+  "term": "Glycaemic index",
+  "def": "A ranking of how quickly a carbohydrate food raises blood glucose compared with pure glucose."
+ },
+ {
+  "term": "Heart-rate reserve",
+  "def": "The gap between your maximum and resting heart rate. The Karvonen method sets training zones as percentages of it.",
+  "link": "/tools/heart-rate-zones.html",
+  "cta": "Find your zones"
+ },
+ {
+  "term": "Heart-rate zones",
+  "def": "Bands of heart rate, usually five, that describe how hard you are working.",
+  "link": "/guides/heart-rate-training.html",
+  "cta": "Heart-rate training"
+ },
+ {
+  "term": "Highly processed foods",
+  "def": "Packaged products made mostly from refined ingredients and additives, such as soft drinks, sweets, crisps and many ready meals.",
+  "link": "/guides/reading-food-labels.html",
+  "cta": "Reading labels"
+ },
+ {
+  "term": "Hypertension",
+  "def": "The medical name for persistently high blood pressure: 130/80 mm Hg or higher under U.S. guidelines, 140/90 in many other countries.",
+  "link": "/guides/measuring-blood-pressure-at-home.html",
+  "cta": "Measure at home"
+ },
+ {
+  "term": "Karvonen method",
+  "def": "A way of setting heart-rate zones using your resting heart rate as well as your maximum.",
+  "link": "/tools/heart-rate-zones.html",
+  "cta": "Heart-rate zones"
+ },
+ {
+  "term": "Lean body mass",
+  "def": "Everything in your body that is not fat: muscle, bone, organs and water.",
+  "link": "/tools/body-fat-calculator.html",
+  "cta": "Body fat calculator"
+ },
+ {
+  "term": "Macronutrients",
+  "def": "The nutrients you need in large amounts: protein, carbohydrate and fat.",
+  "link": "/tools/macro-calculator.html",
+  "cta": "Macro calculator"
+ },
+ {
+  "term": "Maximum heart rate",
+  "def": "The fastest your heart can beat during all-out effort. It falls with age and is often estimated as 208 minus 0.7 times age.",
+  "link": "/tools/heart-rate-zones.html",
+  "cta": "Estimate yours"
+ },
+ {
+  "term": "MET",
+  "def": "Metabolic equivalent of task. One MET is the energy used sitting quietly; brisk walking is about 4.3 METs.",
+  "link": "/tools/calories-burned-calculator.html",
+  "cta": "Calories burned"
+ },
+ {
+  "term": "Mifflin-St Jeor equation",
+  "def": "A widely used formula that estimates resting energy needs from weight, height, age and sex.",
+  "link": "/tools/bmr-calculator.html",
+  "cta": "BMR calculator"
+ },
+ {
+  "term": "Moderate-intensity activity",
+  "def": "Effort at which you can talk but not sing, roughly 3 to 6 METs.",
+  "link": "/tools/activity-minutes-checker.html",
+  "cta": "Check your week"
+ },
+ {
+  "term": "Muscle-strengthening activity",
+  "def": "Exercise that makes muscles work against resistance: weights, bands, body weight or heavy manual work.",
+  "link": "/guides/strength-training-basics.html",
+  "cta": "Strength basics"
+ },
+ {
+  "term": "One-rep max (1RM)",
+  "def": "The heaviest weight you can lift once with good form. Often estimated from a lighter set.",
+  "link": "/tools/one-rep-max-calculator.html",
+  "cta": "Estimate 1RM"
+ },
+ {
+  "term": "Pack-year",
+  "def": "A measure of smoking history: packs smoked per day multiplied by years smoked.",
+  "link": "/tools/checkup-checklist.html",
+  "cta": "Checkup checklist"
+ },
+ {
+  "term": "Prediabetes",
+  "def": "Blood glucose higher than normal but below the diabetes threshold, for example an A1C of 5.7 to 6.4%.",
+  "link": "/tools/a1c-converter.html",
+  "cta": "A1C converter"
+ },
+ {
+  "term": "Protein",
+  "def": "A macronutrient built from amino acids, needed to build and repair tissue. It provides 4 kcal per gram.",
+  "link": "/guides/protein.html",
+  "cta": "Protein guide"
+ },
+ {
+  "term": "RDA",
+  "def": "Recommended Dietary Allowance: the daily intake that meets the needs of nearly all healthy people."
+ },
+ {
+  "term": "Resting heart rate",
+  "def": "Your pulse when calm and rested, usually 60 to 100 beats a minute in adults and lower in fit people.",
+  "link": "/guides/know-your-numbers.html",
+  "cta": "Know your numbers"
+ },
+ {
+  "term": "Saturated fat",
+  "def": "A type of fat found mainly in fatty meat, butter, cheese, and coconut and palm oils. Guidelines advise keeping it under 10% of calories.",
+  "link": "/guides/reading-food-labels.html",
+  "cta": "Reading labels"
+ },
+ {
+  "term": "Screening",
+  "def": "A test for a disease in people with no symptoms, done to catch it early.",
+  "link": "/tools/checkup-checklist.html",
+  "cta": "Screenings by age"
+ },
+ {
+  "term": "Sedentary time",
+  "def": "Waking time spent sitting or lying down with very low energy use.",
+  "link": "/guides/sitting-less.html",
+  "cta": "Sitting less"
+ },
+ {
+  "term": "Sleep cycle",
+  "def": "A roughly 90-minute pass through light, deep and REM sleep. Most adults complete four to six a night.",
+  "link": "/tools/sleep-calculator.html",
+  "cta": "Sleep calculator"
+ },
+ {
+  "term": "Sleep hygiene",
+  "def": "The habits and bedroom conditions that support good sleep.",
+  "link": "/guides/sleep-habits-that-work.html",
+  "cta": "Sleep habits"
+ },
+ {
+  "term": "Sodium",
+  "def": "The part of salt that affects blood pressure. One teaspoon of salt contains about 2,300 mg.",
+  "link": "/guides/reading-food-labels.html",
+  "cta": "Reading labels"
+ },
+ {
+  "term": "Standard drink",
+  "def": "A national measure of alcohol. It is 14 g of pure alcohol in the U.S., 13.45 g in Canada, 10 g in Australia and 8 g (one unit) in the UK.",
+  "link": "/tools/alcohol-units-calculator.html",
+  "cta": "Alcohol calculator"
+ },
+ {
+  "term": "Systolic pressure",
+  "def": "The top number in a blood pressure reading: the pressure in arteries when the heart beats."
+ },
+ {
+  "term": "TDEE",
+  "def": "Total daily energy expenditure: everything you burn in a day, from resting needs to movement and digestion.",
+  "link": "/tools/tdee-calculator.html",
+  "cta": "Daily calorie calculator"
+ },
+ {
+  "term": "Trans fat",
+  "def": "An industrially produced fat that raises heart-disease risk. Many countries have banned or restricted it."
+ },
+ {
+  "term": "Type 2 diabetes",
+  "def": "A condition in which the body does not use insulin well and blood glucose stays too high.",
+  "link": "/guides/know-your-numbers.html",
+  "cta": "Know your numbers"
+ },
+ {
+  "term": "Unsaturated fat",
+  "def": "Fats found in olive oil, nuts, seeds, avocado and oily fish. Replacing saturated fat with them lowers LDL cholesterol."
+ },
+ {
+  "term": "UV index",
+  "def": "A scale of the strength of sunburn-causing ultraviolet light. Protection is advised at 3 and above.",
+  "link": "/guides/sun-safety.html",
+  "cta": "Sun safety"
+ },
+ {
+  "term": "Vigorous-intensity activity",
+  "def": "Effort at which you can say only a few words without pausing for breath, 6 METs or more.",
+  "link": "/tools/activity-minutes-checker.html",
+  "cta": "Check your week"
+ },
+ {
+  "term": "VO2 max",
+  "def": "The maximum rate at which your body can use oxygen during exercise; a measure of aerobic fitness.",
+  "link": "/guides/heart-rate-training.html",
+  "cta": "Heart-rate training"
+ },
+ {
+  "term": "Waist-to-height ratio",
+  "def": "Waist measurement divided by height. Keeping it under 0.5 is linked with lower health risk.",
+  "link": "/tools/waist-to-height-ratio.html",
+  "cta": "Work out yours"
+ },
+ {
+  "term": "Whole grains",
+  "def": "Grains that keep all three parts of the kernel, such as oats, brown rice, whole wheat and barley.",
+  "link": "/guides/build-a-balanced-plate.html",
+  "cta": "Balanced plate"
+ },
+ {
+  "term": "Zone 2",
+  "def": "Easy aerobic effort, roughly 60 to 70% of maximum heart rate, at which you can hold a conversation.",
+  "link": "/guides/heart-rate-training.html",
+  "cta": "Heart-rate training"
+ }
+]

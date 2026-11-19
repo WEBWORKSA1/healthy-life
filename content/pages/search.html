@@ -1,0 +1,22 @@
+{
+ "title": "Search Healthy.Life",
+ "description": "Search every tool, guide, challenge and glossary term on Healthy.Life.",
+ "kind": "info",
+ "crumb": "Search",
+ "scripts": [
+  "search.js"
+ ]
+}
+---
+<div class="wrap page">
+{{crumbs}}
+<header class="page-head"><h1>Search</h1></header>
+<form class="search-box" role="search" action="/search.html" method="get">
+<label class="skip" for="q">Search Healthy.Life</label>
+<input id="q" name="q" type="search" placeholder="Try sleep, protein or blood pressure" autocomplete="off" autofocus>
+<button class="btn btn-accent" type="submit">Search</button>
+</form>
+<p class="muted" data-count role="status">Type a word, such as sleep, protein or blood pressure.</p>
+<ul class="search-results" data-results></ul>
+<noscript><p class="empty">Search needs JavaScript. You can browse the <a href="/sitemap.html">site map</a> instead.</p></noscript>
+</div>

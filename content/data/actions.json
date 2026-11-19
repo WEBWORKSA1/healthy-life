@@ -1,0 +1,50 @@
+{
+  "move": {
+    "low": ["Walk for 10 minutes after one meal each day.", "Stand up and move for 2 minutes every hour you sit.", "Do 5 sit-to-stands from a chair, twice a day."],
+    "mid": ["Reach 150 minutes this week: five 30-minute brisk walks.", "Add two 15-minute strength sessions: squats, counter push-ups, band rows.", "Take the stairs or a walking call every workday."],
+    "high": ["Add one harder session: intervals or hills for 20 minutes.", "Progress your strength work: a little more weight or one more set.", "Schedule one full rest or easy day and protect it."],
+    "tool": ["activity-minutes-checker", "Weekly activity checker"],
+    "guide": ["how-much-exercise-do-you-need", "How much exercise you need"],
+    "challenge": ["30-day-walking-challenge", "30-day walking challenge"]
+  },
+  "nourish": {
+    "low": ["Add one vegetable or fruit to the meal you eat most often.", "Swap one sugary drink a day for water or unsweetened tea.", "Put a palm-sized portion of protein on your plate at breakfast or lunch."],
+    "mid": ["Fill half your plate with vegetables at dinner, five nights this week.", "Plan and shop for three home-cooked dinners.", "Keep fruit, nuts or plain yoghurt where snacks usually sit."],
+    "high": ["Reach 30 g of fibre a day; count it for three days to check.", "Try two vegetables or pulses you rarely cook.", "Cook a double batch once and freeze portions for busy nights."],
+    "tool": ["macro-calculator", "Macro calculator"],
+    "guide": ["build-a-balanced-plate", "Build a balanced plate"],
+    "challenge": ["7-day-sugar-smart-challenge", "7-day sugar-smart challenge"]
+  },
+  "sleep": {
+    "low": ["Set one wake-up time and keep it all seven days.", "Stop caffeine 8 hours before bed.", "Charge your phone outside the bedroom."],
+    "mid": ["Add a 20-minute wind-down: dim lights, no work, same order every night.", "Get 10 minutes of outdoor light within an hour of waking.", "Make the bedroom cool, dark and quiet; fix the weakest of the three."],
+    "high": ["Keep weekend sleep within an hour of weekday times.", "Finish hard exercise and heavy meals at least 3 hours before bed.", "Note how rested you feel for a week, then shift bedtime by 15 minutes if needed."],
+    "tool": ["sleep-calculator", "Sleep calculator"],
+    "guide": ["how-much-sleep-do-you-need", "How much sleep you need"],
+    "challenge": ["14-day-sleep-reset", "14-day sleep reset"]
+  },
+  "mind": {
+    "low": ["Do one minute of slow breathing when you sit down to work.", "Write down the one thing that must get done today, then do it first.", "Take a 10-minute walk outside without your phone."],
+    "mid": ["Practise box breathing for 3 minutes, twice a day.", "Keep two phone-free blocks: 30 minutes after waking and 30 before bed.", "Name what is stressing you and one step you control; write both down."],
+    "high": ["Try a 10-minute daily mindfulness, prayer or journalling practice.", "Plan one session this week for a hobby that absorbs you.", "Do a weekly review: what gave you energy, what drained it, one change."],
+    "tool": ["breathing-timer", "Breathing timer"],
+    "guide": ["stress-and-slow-breathing", "Stress and slow breathing"],
+    "challenge": ["10-day-calm-challenge", "10-day calm challenge"]
+  },
+  "connect": {
+    "low": ["Send one message today to someone you have not spoken to in a while.", "Say yes to one invitation this week, or make one.", "Share one meal with another person, phones away."],
+    "mid": ["Put a standing weekly call or walk with a friend in your calendar.", "Join one group built around something you enjoy: a class, club, team or faith community.", "Do one small favour for a neighbour or colleague."],
+    "high": ["Host something simple: coffee, a walk or a shared meal.", "Give an hour to a cause you care about.", "Check in on someone who may be lonely."],
+    "tool": ["steps-calculator", "Steps calculator for a walk with a friend"],
+    "guide": ["social-connection-and-health", "Why connection matters for health"],
+    "challenge": ["7-day-reach-out-challenge", "7-day reach-out challenge"]
+  },
+  "prevent": {
+    "low": ["Book the checkup you have been putting off.", "Measure your blood pressure at a pharmacy or at home and write it down.", "Pick two alcohol-free days this week."],
+    "mid": ["Measure your waist and work out your waist-to-height ratio.", "Check which screenings and vaccines are due for your age.", "If you smoke, set a quit date and tell one person."],
+    "high": ["Record blood pressure morning and evening for a week to learn your true average.", "Ask your doctor for your cholesterol and blood sugar results, and keep them.", "Help a family member book their overdue checkup."],
+    "tool": ["checkup-checklist", "Checkup checklist"],
+    "guide": ["know-your-numbers", "Know your numbers"],
+    "challenge": ["7-day-know-your-numbers-week", "Know-your-numbers week"]
+  }
+}

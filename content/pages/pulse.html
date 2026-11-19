@@ -1,0 +1,47 @@
+{
+ "title": "Health Pulse: today's health headlines and food recalls",
+ "description": "Health headlines from the WHO, CDC, NIH, FDA and leading health desks, sorted by pillar and refreshed automatically, plus recent U.S. food recalls.",
+ "kind": "core",
+ "nav": "pulse",
+ "crumb": "Health Pulse",
+ "keywords": "health news, public health news, food recalls"
+}
+---
+<div class="wrap page">
+{{crumbs}}
+<header class="page-head">
+<h1>Health Pulse</h1>
+<p class="lead">What public-health bodies and health reporters published lately, sorted by pillar. Each headline links straight to its source.</p>
+<p class="muted">Refreshed automatically several times a day. Last update: {{news_updated}}.</p>
+</header>
+<div class="filter-row" data-filter-for="news" role="group" aria-label="Filter headlines by pillar">
+<button type="button" class="chip" data-value="all" aria-pressed="true">All</button>
+<button type="button" class="chip" data-value="move" aria-pressed="false">Move</button>
+<button type="button" class="chip" data-value="nourish" aria-pressed="false">Nourish</button>
+<button type="button" class="chip" data-value="sleep" aria-pressed="false">Sleep</button>
+<button type="button" class="chip" data-value="mind" aria-pressed="false">Mind</button>
+<button type="button" class="chip" data-value="connect" aria-pressed="false">Connect</button>
+<button type="button" class="chip" data-value="prevent" aria-pressed="false">Prevent</button>
+</div>
+<div id="news" class="prose" style="max-width:52rem">{{news_all}}</div>
+{{ad_content}}
+<section style="margin-top:3rem;max-width:52rem">
+<h2>Food recall watch (United States)</h2>
+<p class="muted">The most recent food enforcement reports from the U.S. Food and Drug Administration's open data service. Check your cupboards if you bought a listed product.</p>
+{{recalls}}
+</section>
+<section style="margin-top:3rem">
+<h2>Sources we follow</h2>
+{{feed_sources}}
+</section>
+<section class="prose" style="margin-top:3rem">
+<h2>How to read health news</h2>
+<ul>
+<li><strong>One study is one study.</strong> Guidelines change when many studies agree.</li>
+<li><strong>Association is not cause.</strong> "Linked with" means two things were seen together, not that one produced the other.</li>
+<li><strong>Check who was studied.</strong> Results in mice, or in 20 young men, may not apply to you.</li>
+<li><strong>Look for absolute numbers.</strong> "Doubles the risk" matters far more when the starting risk is 1 in 10 than 1 in 10,000.</li>
+</ul>
+<p>Healthy.Life lists headlines and links; it does not rewrite or endorse the articles. Titles belong to their publishers. See our <a href="/editorial-policy.html">editorial policy</a>.</p>
+</section>
+</div>

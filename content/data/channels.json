@@ -1,0 +1,156 @@
+[
+ {
+  "name": "World Health Organization",
+  "handle": "@who",
+  "id": "UC07-dOwgza1IguKA86jqxNA",
+  "pillar": "prevent",
+  "about": "Global public-health explainers and briefings"
+ },
+ {
+  "name": "CDC",
+  "handle": "@CDCgov",
+  "id": "UCiMg06DjcUk5FRiM3g5sqoQ",
+  "pillar": "prevent",
+  "about": "U.S. public-health guidance and prevention advice"
+ },
+ {
+  "name": "NHS",
+  "handle": "@NHSEngland",
+  "id": "",
+  "pillar": "prevent",
+  "about": "Plain-language health advice from the UK health service"
+ },
+ {
+  "name": "Mayo Clinic",
+  "handle": "@mayoclinic",
+  "id": "",
+  "pillar": "prevent",
+  "about": "Clinicians explaining conditions, tests and healthy living"
+ },
+ {
+  "name": "Cleveland Clinic",
+  "handle": "@ClevelandClinic",
+  "id": "",
+  "pillar": "prevent",
+  "about": "Short answers to common health questions"
+ },
+ {
+  "name": "Johns Hopkins Medicine",
+  "handle": "@JohnsHopkinsMedicine",
+  "id": "",
+  "pillar": "prevent",
+  "about": "Specialists on prevention and treatment"
+ },
+ {
+  "name": "American Heart Association",
+  "handle": "@americanheartassociation",
+  "id": "",
+  "pillar": "prevent",
+  "about": "Heart health, blood pressure and CPR"
+ },
+ {
+  "name": "Yoga With Adriene",
+  "handle": "@yogawithadriene",
+  "id": "UCFKE7WVJfvaHW5q283SxchA",
+  "pillar": "move",
+  "about": "Free yoga for every level"
+ },
+ {
+  "name": "Fitness Blender",
+  "handle": "@fitnessblender",
+  "id": "UCiP6wD_tYlYLYh3agzbByWQ",
+  "pillar": "move",
+  "about": "No-nonsense home workouts"
+ },
+ {
+  "name": "HASfit",
+  "handle": "@HASfit",
+  "id": "UCXIJ2-RSIGn53HA-x9RDevA",
+  "pillar": "move",
+  "about": "Home workouts with beginner options"
+ },
+ {
+  "name": "Bob & Brad",
+  "handle": "@BobandBrad",
+  "id": "UCmTe0LsfEbpkDpgrxKAWbRA",
+  "pillar": "move",
+  "about": "Physical therapists on aches, mobility and exercise"
+ },
+ {
+  "name": "Walk at Home",
+  "handle": "@WalkAtHome",
+  "id": "",
+  "pillar": "move",
+  "about": "Indoor walking workouts"
+ },
+ {
+  "name": "Pick Up Limes",
+  "handle": "@PickUpLimes",
+  "id": "UCq2E1mIwUKMWzCA4liA_XGQ",
+  "pillar": "nourish",
+  "about": "A dietitian's recipes and nutrition explainers"
+ },
+ {
+  "name": "Downshiftology",
+  "handle": "@Downshiftology",
+  "id": "UCj0V0aG4LcdHmdPJ7aTtSCQ",
+  "pillar": "nourish",
+  "about": "Simple whole-food cooking and meal prep"
+ },
+ {
+  "name": "Nutrition Made Simple",
+  "handle": "@NutritionMadeSimple",
+  "id": "",
+  "pillar": "nourish",
+  "about": "A physician reviewing nutrition research"
+ },
+ {
+  "name": "Therapy in a Nutshell",
+  "handle": "@TherapyinaNutshell",
+  "id": "UCpuqYFKLkcEryEieomiAv3Q",
+  "pillar": "mind",
+  "about": "A therapist's skills for stress and emotions"
+ },
+ {
+  "name": "Headspace",
+  "handle": "@headspace",
+  "id": "UC3JhfsgFPLSLNEROQCdj-GQ",
+  "pillar": "mind",
+  "about": "Guided meditations and mindfulness basics"
+ },
+ {
+  "name": "Dr. Tracey Marks",
+  "handle": "@DrTraceyMarks",
+  "id": "",
+  "pillar": "mind",
+  "about": "A psychiatrist on mental-health self-care"
+ },
+ {
+  "name": "TED-Ed",
+  "handle": "@TEDEd",
+  "id": "UCsooa4yRKGN_zEE8iknghZA",
+  "pillar": "sleep",
+  "about": "Animated lessons, including many on sleep and the body"
+ },
+ {
+  "name": "SciShow",
+  "handle": "@SciShow",
+  "id": "UCZYTClx2T1of7BRZ86-8fow",
+  "pillar": "sleep",
+  "about": "Science explainers on sleep, food and the body"
+ },
+ {
+  "name": "Kurzgesagt",
+  "handle": "@kurzgesagt",
+  "id": "UCsXVk37bltHxD1rDPwtNM8Q",
+  "pillar": "connect",
+  "about": "Animated science, including loneliness and wellbeing"
+ },
+ {
+  "name": "Doctor Mike",
+  "handle": "@DoctorMike",
+  "id": "UC0QHWhjbe5fGJEPz3sVb6nw",
+  "pillar": "prevent",
+  "about": "A family doctor on health claims and checkups"
+ }
+]

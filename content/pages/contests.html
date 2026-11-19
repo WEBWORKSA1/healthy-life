@@ -1,0 +1,95 @@
+{
+ "title": "Contests and prizes",
+ "description": "Finish a Healthy.Life challenge, tell us what changed and enter the monthly contest. Free to enter, judged on honesty and usefulness, with prizes for the winner and runners-up.",
+ "kind": "info",
+ "crumb": "Contests",
+ "keywords": "health contest, wellness challenge prize",
+ "faq": [
+  [
+   "Does it cost anything to enter?",
+   "No. There is no purchase or payment of any kind, and supporting the site does not improve your chances."
+  ],
+  [
+   "Do I need before-and-after photos or weight loss?",
+   "No. Entries are judged on the story of a habit, not on appearance or numbers on a scale. Please do not send body photos."
+  ],
+  [
+   "Who can enter?",
+   "Adults who have reached the age of majority where they live, where such contests are permitted. See the official rules."
+  ]
+ ]
+}
+---
+<div class="wrap page">
+{{crumbs}}
+<header class="page-head">
+<h1>This month's contest: <span data-contest="name">New Year Reset</span></h1>
+<p class="lead">Finish any Healthy.Life challenge and tell us, in 200 words or fewer, what changed. The most honest, useful story wins.</p>
+</header>
+<div class="two-col">
+<div>
+<ul class="facts">
+<li><b>Round</b><span data-contest="month">January 2027</span></li>
+<li><b>Prize</b><span data-contest="prize">Prize details load here.</span></li>
+<li><b>Also</b><span data-contest="runnerUp">Runner-up prizes load here.</span></li>
+<li><b>Closes</b><span data-contest="closesText">soon</span></li>
+<li><b>Cost</b><span>Free. No purchase necessary.</span></li>
+</ul>
+<p class="muted" data-contest="sponsor" hidden></p>
+<div data-contest-open>
+<h2 style="margin-top:2rem">Time left to enter</h2>
+<div class="countdown" data-countdown></div>
+</div>
+<div class="today-box" data-contest-closed hidden><p class="big">This round has closed.</p><p>The winner is contacted by email within 14 days. The next round opens soon; join the email list on the <a href="/index.html">home page</a> to hear first.</p></div>
+<h2 style="margin-top:2rem">How to enter</h2>
+<ol>
+<li>Pick a <a href="/challenges.html">challenge</a> and complete every day.</li>
+<li>Write up to 200 words: what you did, what was hard, what changed.</li>
+<li>Send the form before the closing date.</li>
+</ol>
+<h2 style="margin-top:2rem">How entries are judged</h2>
+<ul>
+<li><strong>Honesty and clarity (40%).</strong> Real beats polished.</li>
+<li><strong>Usefulness to others (40%).</strong> Would a reader learn something they could try?</li>
+<li><strong>Originality (20%).</strong> Your own way of making it work.</li>
+</ul>
+<p>Weight, body shape and appearance play no part in judging.</p>
+<h2 style="margin-top:2rem">Winners</h2>
+<p>Winners appear here, by first name and region, after each round closes and the prize has been accepted. The first round is under way.</p>
+</div>
+<div class="panel">
+<h2>Enter the contest</h2>
+<form class="form" data-form="contest" data-subject="Contest entry" data-done="Entry received. Good luck!">
+<div class="two"><div class="field"><label for="ce-name">Name</label><input id="ce-name" name="Name" required autocomplete="name"></div>
+<div class="field"><label for="ce-email">Email</label><input id="ce-email" type="email" name="email" required autocomplete="email"></div></div>
+<div class="two"><div class="field"><label for="ce-region">Country and region</label><input id="ce-region" name="Country and region" required></div>
+<div class="field"><label for="ce-ch">Challenge completed</label><select id="ce-ch" name="Challenge" required><option value="">Choose one</option><option>30-day walking challenge</option><option>14-day sleep reset</option><option>7-day sugar-smart challenge</option><option>21-day hydration challenge</option><option>10-day calm challenge</option><option>7-day reach-out challenge</option><option>Know-your-numbers week</option></select></div></div>
+<div class="field"><label for="ce-story">Your story (200 words or fewer)</label><textarea id="ce-story" name="Story" required maxlength="1600" style="min-height:10rem"></textarea></div>
+<div class="field"><label for="ce-skill">Skill-testing question: what is (12 × 5) + 18 − 8?</label><input id="ce-skill" name="Skill-testing answer" inputmode="numeric" required><small>Required for residents of Canada; please answer wherever you live.</small></div>
+<label class="check"><input type="checkbox" name="Age of majority confirmed" value="yes" required><span>I have reached the age of majority where I live and I completed the challenge myself.</span></label>
+<label class="check"><input type="checkbox" name="Accepted rules" value="yes" required><span>I have read and accept the <a href="#rules">official rules</a> and the <a href="/privacy.html" target="_blank">privacy policy</a>.</span></label>
+<label class="check"><input type="checkbox" name="May publish story" value="yes"><span>Optional: you may publish my story with my first name and region.</span></label>
+<button class="btn btn-accent" type="submit">Send my entry</button>
+</form>
+</div>
+</div>
+{{faq}}
+<section class="prose" id="rules" style="margin-top:3rem">
+<h2>Official rules</h2>
+<ol>
+<li><strong>Organiser.</strong> The contest is run by the publisher of Healthy.Life ("we"). It is not sponsored, endorsed or administered by any social network, search engine or advertising partner.</li>
+<li><strong>No purchase necessary.</strong> Entry is free. A purchase, payment or contribution does not improve the chance of winning.</li>
+<li><strong>Eligibility.</strong> Open to individuals who have reached the age of majority in their place of residence. Void where prohibited or restricted by law. People involved in running the contest and members of their households may not enter.</li>
+<li><strong>Entry period.</strong> Each round opens when announced on this page and closes at the date and time shown above. Late entries are not considered.</li>
+<li><strong>How to enter.</strong> Complete a Healthy.Life challenge and submit the form on this page. One entry per person per round. Entries must be your own original work, truthful, and free of medical claims, advertising and other people's personal details.</li>
+<li><strong>Judging.</strong> This is a contest of skill. Entries are scored by the Healthy.Life editorial team on the criteria and weightings listed above. The highest score wins; ties are broken on the honesty and clarity score. Decisions are final.</li>
+<li><strong>Prizes.</strong> The prizes are those shown on this page for the round. Prizes are delivered digitally where possible, are not transferable and cannot be exchanged for cash unless we choose to offer it. If a stated prize is unavailable in the winner's country, we will substitute one of equal or greater value. Winners are responsible for any taxes.</li>
+<li><strong>Skill-testing question.</strong> Residents of Canada must correctly answer the mathematical skill-testing question on the entry form to be declared a winner.</li>
+<li><strong>Notification.</strong> Winners are contacted by email within 14 days of the closing date and have 14 days to reply. If there is no reply, or the winner is ineligible, the next highest-scoring entry is selected.</li>
+<li><strong>Publicity.</strong> We publish a winner's first name and region. Stories are published only with the entrant's permission and may be edited for length.</li>
+<li><strong>Personal information.</strong> Entry details are used to run the contest and are handled under our <a href="/privacy.html">privacy policy</a>.</li>
+<li><strong>Health and safety.</strong> Challenges are general wellbeing activities. Take part within your own limits and seek medical advice where appropriate. Entries describing extreme dieting, unsafe exercise or rapid weight loss will be disqualified.</li>
+<li><strong>General.</strong> We may cancel, suspend or change a round if fraud, technical failure or events outside our control affect it; if so, a notice will appear on this page. To the extent the law allows, we are not liable for lost, late or incomplete entries. These rules are governed by the law of the organiser's place of establishment, without limiting any rights you have under the mandatory law of the place where you live.</li>
+</ol>
+</section>
+</div>
