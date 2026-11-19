@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-19T11:18:02.238540+00:00",
+ "updated": "2026-11-19T11:20:00.472888+00:00",
  "items": [
+  {
+   "product": "Raw milk cheddar cheese packed in vacuum sealed clear plastic with a white, red and green label which reads in part as, \"FAMILY FARMSTEAD MILD RAW CHEDDAR - AGE",
+   "reason": "Potential contamination with E. coli (pathogenic non-O157 STEC).",
+   "firm": "Family Farmstead Dairy, Llc",
+   "state": "NY",
+   "class": "Class I",
+   "date": "2026-11-11"
+  },
+  {
+   "product": "Starfish Seafood Cold Smoked Norwegian Salmon",
+   "reason": "Contaminated with Listeria monocytogenes",
+   "firm": "Krasnyi Oktyabr Inc",
+   "state": "NY",
+   "class": "Class I",
+   "date": "2026-11-11"
+  },
+  {
+   "product": "Starfish Seafood Cold Smoked Trio Salmon Halibut Trout",
+   "reason": "Contaminated with Listeria monocytogenes",
+   "firm": "Krasnyi Oktyabr Inc",
+   "state": "NY",
+   "class": "Class I",
+   "date": "2026-11-11"
+  },
+  {
+   "product": "365 Whole Foods Market Standardized + Full Spectrum Blend Ashwagandha Capsules 120 count. Product Item Number: 3006661. 120 ct powder capsules in a 200cc bottle",
+   "reason": "Possible Salmonella contamination.",
+   "firm": "Vitality Works, Inc",
+   "state": "NM",
+   "class": "Not Yet Classified",
+   "date": "2026-11-11"
+  },
   {
    "product": "Little Temptations, Chocolatey Eyeballs (Hazelnut Praline Chocolatey Eyeballs ) Spooks and Spells, The product comes in the following sizes: Card Header Bag - 1",
    "reason": "Product packaging mix-up. Product containing whey (milk), were distributed in packaging that did not reveal the presence of milk.",
@@ -10,10 +42,26 @@
    "date": "2026-11-11"
   },
   {
+   "product": "Gelatelli NATURALLY FLAVORED COFFEE & VANILLA GELATO WITH COFFEE SAUCE & COOKIE PIECES 16FL OZ (1PT) 475 mL UPC 4 056489 722458 DISTRIBUTED BY: LIDL US, LLC, AR",
+   "reason": "Listeria monocytogenes. The firm received positive test result of Listeria monocytogenes in the product.",
+   "firm": "Lidl Us Trading",
+   "state": "VA",
+   "class": "Class I",
+   "date": "2026-11-11"
+  },
+  {
    "product": "Boner Bears Chocolate Syrup, Serving size 15g, Dosage: Consume 1 Piece At Least 1 Hour Prior To Activity. Do Not Exceed 1 Piece In Any 48 Hour Period, MANUFACTU",
    "reason": "FDA analysis revealed the presence of undeclared sildenafil.",
    "firm": "Lockout Industries, Llc",
    "state": "TX",
+   "class": "Class I",
+   "date": "2026-11-11"
+  },
+  {
+   "product": "WinCo Foods Hoagie Rolls, 6 rolls/bag. Product is packaged in clear plastic bag with red banner. Net Wt. 16oz (1LB) 454g. UPC 0 70552 00649 2. Distributed By: W",
+   "reason": "Undeclared Sesame",
+   "firm": "Winco Foods Llc",
+   "state": "ID",
    "class": "Class I",
    "date": "2026-11-11"
   },
@@ -26,6 +74,22 @@
    "date": "2026-11-11"
   },
   {
+   "product": "Ethel's Gluten Free Turtle Dandy Dessert Bars 6oz, UPC 8 50054 16601 2, 6 retail units per case",
+   "reason": "Product mix-up resulting in incorrect product identity, inaccurate ingredient declaration (extra ingredients declared that are not present in the product), and inaccurate Nutrition Facts.",
+   "firm": "Ethel'S Bakery, Llc",
+   "state": "MI",
+   "class": "Class III",
+   "date": "2026-11-11"
+  },
+  {
+   "product": "Bulk packaged Seitan Cubes; 2/ 5-pound vacuumed seal packages per case. Case is generic brown cardboard with product and company information label on the outsid",
+   "reason": "Product label missing ingredient statement and allergen ingredient (wheat)",
+   "firm": "House Foods America Corporation",
+   "state": "CA",
+   "class": "Class I",
+   "date": "2026-11-11"
+  },
+  {
    "product": "DTF SEXUAL CHOCOLATES, UPC CODE: 757817783069, Supplier Part Number: DTF-BAR-20CT, Manufactured by or for Megladon, LLC. 2 bars per package, 22 packages per box",
    "reason": "Product contains undeclared sildenafil and tadalafil.",
    "firm": "Nalpac Ltd.",
@@ -34,92 +98,28 @@
    "date": "2026-11-11"
   },
   {
+   "product": "Gluten Free Truly AIP Rustic Bread Mix, 14 oz",
+   "reason": "Products are recalled due to potential undeclared wheat gluten",
+   "firm": "Gf Blends Inc",
+   "state": "WA",
+   "class": "Class I",
+   "date": "2026-11-04"
+  },
+  {
+   "product": "EDEN BROTHERS Broccoli Seeds - Calabrese. Sold in packets, Net Wt. 1oz pouches, UPC SVBRO111 -qb2 & 1 Pound pouches UPC SVBRO111 -qb4.",
+   "reason": "Salmonella",
+   "firm": "Eden Brothers",
+   "state": "NC",
+   "class": "Class I",
+   "date": "2026-11-04"
+  },
+  {
    "product": "Miyoko's Creamery European Style Salted Plant Milk Butter, Net Wt. 8 OZ (227G). UPC 857554005773. Distributed By: Prosperity Organic Foods, Inc. Boise, Idaho 83",
    "reason": "Product recalled due to yeast, mold, and E. coli.",
    "firm": "Prosperity Organic Foods Inc",
    "state": "ID",
    "class": "Class II",
    "date": "2026-11-04"
-  },
-  {
-   "product": "ZestiGreens Broccoli Seeds for Sprouting & Microgreens; 8 OZ; Heirloom Broccoli Seeds. SKU: X004IOM4AJ ZestiGreens Broccoli Seeds for Sprouting & Microgreens; 1",
-   "reason": "Broccoli seeds potentially contaminated with Salmonella",
-   "firm": "Fortuna Marketing, Inc",
-   "state": "CA",
-   "class": "Class I",
-   "date": "2026-11-04"
-  },
-  {
-   "product": "Jovy Gummy Worms Neon; packaged in 1lb plastic units. UPC 712199083411",
-   "reason": "undeclared allergen ingredient (Red#40, Yellow#5, Yellow#6, Blue#1)",
-   "firm": "El Ruisenor De Mexico, Inc.",
-   "state": "CA",
-   "class": "Class II",
-   "date": "2026-10-28"
-  },
-  {
-   "product": "Fritura mixed dry fruit; packed in a clear plastic 1lb, 5lb, 25lb unit sizes. no UPC",
-   "reason": "undeclared allergen ingredient (Wheat, Yellow #5, Yellow #6)",
-   "firm": "El Ruisenor De Mexico, Inc.",
-   "state": "CA",
-   "class": "Class II",
-   "date": "2026-10-28"
-  },
-  {
-   "product": "Textured Soy Protein; packaged in 1lb, 5lb, 33lb clear plastic units. No UPC",
-   "reason": "undeclared allergen ingredient (Soy)",
-   "firm": "El Ruisenor De Mexico, Inc.",
-   "state": "CA",
-   "class": "Class III",
-   "date": "2026-10-28"
-  },
-  {
-   "product": "Churro Mix; packed in a clear plastic 1lb, 5lb, 50lb unit sizes. no UPC",
-   "reason": "undeclared allergen ingredient (Egg, Wheat)",
-   "firm": "El Ruisenor De Mexico, Inc.",
-   "state": "CA",
-   "class": "Class II",
-   "date": "2026-10-28"
-  },
-  {
-   "product": "Jovy Gummy Bears Regular; packed in a clear plastic 1lb unit sizes. UPC: UPC 712199085156",
-   "reason": "undeclared allergen ingredient (Red#40, Yellow#5, Yellow#6, Blue#1)",
-   "firm": "El Ruisenor De Mexico, Inc.",
-   "state": "CA",
-   "class": "Class II",
-   "date": "2026-10-28"
-  },
-  {
-   "product": "Almonds in Shell; packed in a clear plastic bag. 1lb, 5lb, 50lb unit size. No UPC",
-   "reason": "undeclared allergen ingredient (Almond)",
-   "firm": "El Ruisenor De Mexico, Inc.",
-   "state": "CA",
-   "class": "Class III",
-   "date": "2026-10-28"
-  },
-  {
-   "product": "Wheat Bran; packaged in 1lb, 5lb, 50lb clear plastic units. No UPC",
-   "reason": "undeclared allergen ingredient (Wheat)",
-   "firm": "El Ruisenor De Mexico, Inc.",
-   "state": "CA",
-   "class": "Class III",
-   "date": "2026-10-28"
-  },
-  {
-   "product": "Great Value Fruit Cocktail in Fruit Juice from Concentrate NET WT 15 OZ (425g) DISTRIBUTED BY: Walmart Inc., Bentonville, AR 72716 UPC: 078742369570",
-   "reason": "Potential contamination with elevated levels of lead.",
-   "firm": "Pacific Coast Producers",
-   "state": "CA",
-   "class": "Class II",
-   "date": "2026-10-28"
-  },
-  {
-   "product": "Dried Diced Pineapple; packaged in 1lb, 5lb, 44lb clear plastic units. No UPC",
-   "reason": "undeclared allergen ingredient (Sulfites)",
-   "firm": "El Ruisenor De Mexico, Inc.",
-   "state": "CA",
-   "class": "Class II",
-   "date": "2026-10-28"
   }
  ]
 }

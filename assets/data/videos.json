@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T11:18:02.238540+00:00",
+ "updated": "2026-11-19T11:20:00.472888+00:00",
  "items": [
   {
    "id": "p4sPrWyY2Tk",
@@ -13,7 +13,7 @@
    "title": "Antimicrobial Resistance (AMR) threatens our health, food security, economies and planet.",
    "channel": "World Health Organization",
    "date": "2026-11-19T07:58:59+00:00",
-   "pillar": "prevent"
+   "pillar": "nourish"
   },
   {
    "id": "nYDUjxyEeEM",
@@ -34,7 +34,7 @@
    "title": "Bone health: What to eat for stronger bones | Mayo Clinic On Nutrition Podcast",
    "channel": "Mayo Clinic",
    "date": "2026-11-18T22:06:05+00:00",
-   "pillar": "prevent"
+   "pillar": "nourish"
   },
   {
    "id": "HTQqFputYVc",
@@ -48,7 +48,7 @@
    "title": "Sleep Disorders in Pregnancy: Part 1: S10-Ep2",
    "channel": "Mayo Clinic",
    "date": "2026-11-18T22:03:01+00:00",
-   "pillar": "prevent"
+   "pillar": "sleep"
   },
   {
    "id": "8JAm8qgTDKc",
@@ -63,13 +63,6 @@
    "channel": "Fitness Blender",
    "date": "2026-11-18T18:00:15+00:00",
    "pillar": "move"
-  },
-  {
-   "id": "7pGCRPvKBXA",
-   "title": "Your Allergies Might Prevent Cancer",
-   "channel": "SciShow",
-   "date": "2026-11-18T18:00:04+00:00",
-   "pillar": "sleep"
   },
   {
    "id": "dcfAytSG_Dg",
@@ -160,7 +153,7 @@
    "title": "Is Eating Oysters Safe?",
    "channel": "SciShow",
    "date": "2026-11-17T18:00:36+00:00",
-   "pillar": "sleep"
+   "pillar": "nourish"
   },
   {
    "id": "ersGe6xLbiE",
@@ -168,13 +161,6 @@
    "channel": "Fitness Blender",
    "date": "2026-11-17T18:00:22+00:00",
    "pillar": "move"
-  },
-  {
-   "id": "dkocGur84i8",
-   "title": "The three words that power every device you own - Lane Gunderman",
-   "channel": "TED-Ed",
-   "date": "2026-11-17T16:00:59+00:00",
-   "pillar": "sleep"
   },
   {
    "id": "0K2T_-zs_XM",
@@ -191,13 +177,6 @@
    "pillar": "prevent"
   },
   {
-   "id": "1ejtdt78rCo",
-   "title": "The Chess Rating System That Predicts Everything",
-   "channel": "SciShow",
-   "date": "2026-11-16T18:00:35+00:00",
-   "pillar": "sleep"
-  },
-  {
    "id": "jWQO4wTNzns",
    "title": "Has Gen Z stopped dating???",
    "channel": "Doctor Mike",
@@ -212,6 +191,13 @@
    "pillar": "nourish"
   },
   {
+   "id": "gh2spXEYjS4",
+   "title": "One thing about me is that I will always say yes to a light weight sculpt workout 🔥",
+   "channel": "MadFit",
+   "date": "2026-11-16T15:00:07+00:00",
+   "pillar": "move"
+  },
+  {
    "id": "eWbqAlfB03g",
    "title": "Former Tinder Expert Went on 343 Dates. Here's What She Learned",
    "channel": "Doctor Mike",
@@ -219,18 +205,18 @@
    "pillar": "prevent"
   },
   {
-   "id": "-Aad-G0qXGA",
-   "title": "The Peptide that Cuts Heart Attacks and Deaths",
-   "channel": "Nutrition Made Simple",
-   "date": "2026-11-14T16:00:36+00:00",
-   "pillar": "nourish"
+   "id": "XKU_GZc6H8Y",
+   "title": "How Much Do Fitness Influencers Actually Know? (Ft. Lean Beef Patty)",
+   "channel": "Jeff Nippard",
+   "date": "2026-11-13T16:25:06+00:00",
+   "pillar": "move"
   },
   {
-   "id": "NKeZ_HRk_O8",
-   "title": "Cool Down Your Room... With a FRIDGE?",
-   "channel": "Kurzgesagt",
-   "date": "2026-11-14T15:00:11+00:00",
-   "pillar": "connect"
+   "id": "lMEbTxmp02Y",
+   "title": "Me in my third trimester 🤝 birth ball",
+   "channel": "MadFit",
+   "date": "2026-11-13T16:00:23+00:00",
+   "pillar": "move"
   },
   {
    "id": "lUzRluFm9Uc",
@@ -240,18 +226,18 @@
    "pillar": "nourish"
   },
   {
-   "id": "aDblEBU41nA",
-   "title": "Why is pepper such a popular spice? - Carolyn Beans",
-   "channel": "TED-Ed",
-   "date": "2026-11-12T16:01:11+00:00",
-   "pillar": "sleep"
-  },
-  {
    "id": "Y1vEGsnNYek",
    "title": "What Is Food Fortification?",
    "channel": "Kurzgesagt",
    "date": "2026-11-12T16:00:37+00:00",
-   "pillar": "connect"
+   "pillar": "nourish"
+  },
+  {
+   "id": "pijGSrUGWgg",
+   "title": "No better way to get your steps in than with a bit of fun cardio💃",
+   "channel": "MadFit",
+   "date": "2026-11-12T15:00:24+00:00",
+   "pillar": "move"
   },
   {
    "id": "vIIfveunZ1Q",
@@ -279,14 +265,14 @@
    "title": "Healthy Food Options",
    "channel": "CDC",
    "date": "2026-11-10T16:09:15+00:00",
-   "pillar": "prevent"
+   "pillar": "nourish"
   },
   {
    "id": "nBVuemyrMgE",
    "title": "Is salt the most important ingredient in history? - Carolyn Beans",
    "channel": "TED-Ed",
    "date": "2026-11-10T16:01:00+00:00",
-   "pillar": "sleep"
+   "pillar": "nourish"
   },
   {
    "id": "MaBVz7Nb5-o",
@@ -303,17 +289,17 @@
    "pillar": "move"
   },
   {
-   "id": "fEjvSbI_PT4",
-   "title": "Dying Is Complicated",
-   "channel": "Kurzgesagt",
-   "date": "2026-11-10T15:00:01+00:00",
-   "pillar": "connect"
-  },
-  {
    "id": "0nljgecE2NY",
    "title": "Stay Healthy and Fight Drug-Resistant Infections",
    "channel": "CDC",
    "date": "2026-11-10T13:46:17+00:00",
+   "pillar": "prevent"
+  },
+  {
+   "id": "phGyIN1Fw_c",
+   "title": "Can Green Juice Treat Cancer? Facts about Alternative and Complementary Treatments",
+   "channel": "Healthcare Triage",
+   "date": "2026-11-09T20:29:58+00:00",
    "pillar": "prevent"
   },
   {
@@ -335,6 +321,20 @@
    "title": "The HEALTHY DINNER RECIPE I’ve Been Making for 15 Years!",
    "channel": "Downshiftology",
    "date": "2026-11-06T16:45:55+00:00",
+   "pillar": "nourish"
+  },
+  {
+   "id": "i7esSCr2UJk",
+   "title": "Why Is There No Vitamin F?",
+   "channel": "SciShow",
+   "date": "2026-11-04T18:00:29+00:00",
+   "pillar": "nourish"
+  },
+  {
+   "id": "rOteZSblzYA",
+   "title": "The NAD Supplement Story Just Changed (New Evidence)",
+   "channel": "Nutrition Made Simple",
+   "date": "2026-11-03T16:00:08+00:00",
    "pillar": "nourish"
   },
   {
@@ -380,6 +380,13 @@
    "pillar": "nourish"
   },
   {
+   "id": "El8P1hp7lRQ",
+   "title": "How Many Energy Drinks Can You Have Before It’s A Problem?",
+   "channel": "Jeff Nippard",
+   "date": "2026-10-28T16:17:43+00:00",
+   "pillar": "move"
+  },
+  {
    "id": "E9AwOaDbclg",
    "title": "Halloween Yoga | A Red Riding Hood Adventure",
    "channel": "Yoga With Adriene",
@@ -394,11 +401,25 @@
    "pillar": "move"
   },
   {
-   "id": "aA9EI3NKUS4",
-   "title": "Find Your Flexibility | Full Body Yoga",
-   "channel": "Yoga With Adriene",
-   "date": "2026-10-13T14:00:06+00:00",
+   "id": "db8LDkP0m90",
+   "title": "Cancer Myths Busted!",
+   "channel": "Healthcare Triage",
+   "date": "2026-10-22T20:42:33+00:00",
+   "pillar": "prevent"
+  },
+  {
+   "id": "RK4UVg08wt0",
+   "title": "What Do 100 Calories Actually Look Like?",
+   "channel": "Jeff Nippard",
+   "date": "2026-10-17T15:07:36+00:00",
    "pillar": "move"
+  },
+  {
+   "id": "QVG632VFiXs",
+   "title": "Should You Really Be Injecting Those \"Research\" Peptides?",
+   "channel": "Healthcare Triage",
+   "date": "2026-10-14T20:30:08+00:00",
+   "pillar": "prevent"
   }
  ]
 }
