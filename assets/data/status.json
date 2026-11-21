@@ -1,10 +1,10 @@
 {
- "ran": "2026-11-20T20:34:04.075748+00:00",
+ "ran": "2026-11-21T07:26:27.137205+00:00",
  "feeds": {
   "World Health Organization": "ok: 1",
   "NIH": "ok: 9",
   "CDC": "ok: 1",
-  "FDA": "ok: 10",
+  "FDA": "failed: HTTPError",
   "ScienceDaily": "ok: 10",
   "NPR Health": "ok: 1",
   "BBC Health": "ok: 7",
