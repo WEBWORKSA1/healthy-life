@@ -1,5 +1,5 @@
 {
- "ran": "2026-11-22T19:51:49.485251+00:00",
+ "ran": "2026-11-23T07:54:21.455829+00:00",
  "feeds": {
   "World Health Organization": "ok: 1",
   "NIH": "ok: 9",
@@ -7,7 +7,7 @@
   "FDA": "ok: 10",
   "ScienceDaily": "ok: 10",
   "NPR Health": "ok: 0 (parsed 0; first date None)",
-  "BBC Health": "ok: 8",
+  "BBC Health": "ok: 7",
   "The Conversation": "ok: 5",
   "Topic: healthy eating research": "ok: 6",
   "Topic: exercise research": "ok: 6",
