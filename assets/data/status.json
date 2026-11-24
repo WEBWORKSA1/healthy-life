@@ -1,5 +1,5 @@
 {
- "ran": "2026-11-23T07:54:21.455829+00:00",
+ "ran": "2026-11-24T00:06:10.205628+00:00",
  "feeds": {
   "World Health Organization": "ok: 1",
   "NIH": "ok: 9",
@@ -9,17 +9,17 @@
   "NPR Health": "ok: 0 (parsed 0; first date None)",
   "BBC Health": "ok: 7",
   "The Conversation": "ok: 5",
-  "Topic: healthy eating research": "ok: 6",
+  "Topic: healthy eating research": "failed: HTTPError",
   "Topic: exercise research": "ok: 6",
   "Topic: sleep research": "ok: 6",
   "Topic: stress and wellbeing": "ok: 6",
-  "Topic: loneliness and connection": "ok: 5"
+  "Topic: loneliness and connection": "ok: 3"
  },
  "channels": {
   "World Health Organization": "ok: 1",
   "CDC": "ok: 3",
   "Mayo Clinic": "ok: 3",
-  "Cleveland Clinic": "ok: 1",
+  "Cleveland Clinic": "ok: 3",
   "Johns Hopkins Medicine": "ok: 2",
   "Yoga With Adriene": "ok: 3",
   "Fitness Blender": "ok: 3",
