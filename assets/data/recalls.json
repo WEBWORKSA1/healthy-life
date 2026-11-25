@@ -1,6 +1,110 @@
 {
- "updated": "2026-11-19T11:20:00.472888+00:00",
+ "updated": "2026-11-25T08:52:34.907838+00:00",
  "items": [
+  {
+   "product": "Ground Up Nut Butter Cups filled with Almond & Cashew Butter Dark Chocolate Two Pack. Net wt. 1.9oz. Each paper box consists two cups wrapped in one sealed cell",
+   "reason": "Foreign material: plastic fiber",
+   "firm": "Breath Of Fresh Air Pdx Llc",
+   "state": "OR",
+   "class": "Class II",
+   "date": "2026-11-18"
+  },
+  {
+   "product": "NAGAI SOYEAT GREEN branded soy paper wrap; 10- 2.5OZ containers in vacuumed sealed containers. UPC: 0 11152 64246 8",
+   "reason": "Undeclared Yellow#5",
+   "firm": "J F C International Inc",
+   "state": "CA",
+   "class": "Class II",
+   "date": "2026-11-18"
+  },
+  {
+   "product": "Brad's Crunchy Kale Original, 2 oz (57g) bags with UPC 813104021679.",
+   "reason": "Products may contain elevated levels of thallium",
+   "firm": "Snack Right Super Foods, Inc.",
+   "state": "PA",
+   "class": "Class II",
+   "date": "2026-11-18"
+  },
+  {
+   "product": "Brad's Crunchy Kale, Cheeze It Up, 2 oz (57g) bags with UPC 813104021877.",
+   "reason": "Products may contain elevated levels of thallium",
+   "firm": "Snack Right Super Foods, Inc.",
+   "state": "PA",
+   "class": "Class II",
+   "date": "2026-11-18"
+  },
+  {
+   "product": "Branch Manager, Dietary Supplement for Men 18+, packaged in single capsule blister card, 24 individual blister cards per retail box; UPC 672713228585. Labeled s",
+   "reason": "FDA laboratory analysis confirmed that the product contains yohimbine that is not declared on the product labels.",
+   "firm": "Supplx.Com",
+   "state": "FL",
+   "class": "Not Yet Classified",
+   "date": "2026-11-18"
+  },
+  {
+   "product": "Country Creek Acres Alfalfa Sprout Seeds packed in a clear and silver poly bag, 16 oz, with a white adhesive label and green, yellow and blue lettering, packed ",
+   "reason": "Products contain seed recalled from the supplier and may be contaminated with E. coli and/or Salmonella",
+   "firm": "Country Creek Llc",
+   "state": "MO",
+   "class": "Class I",
+   "date": "2026-11-18"
+  },
+  {
+   "product": "Brad's Crunchy Kale Radical Ranch, 2 oz (57g) bags with UPC UPC 813104020726.",
+   "reason": "Products may contain elevated levels of thallium",
+   "firm": "Snack Right Super Foods, Inc.",
+   "state": "PA",
+   "class": "Class II",
+   "date": "2026-11-18"
+  },
+  {
+   "product": "Mana Bakery Peperecha, 8 oz., with UPC: 8-5000973405-1.",
+   "reason": "Contains undeclared color (FD&C Yellow 5)",
+   "firm": "Mana Bakery",
+   "state": "NY",
+   "class": "Class II",
+   "date": "2026-11-18"
+  },
+  {
+   "product": "Cold Smoked Sprats, 5 lbs.",
+   "reason": "May be contaminated with Clostridium botulinum",
+   "firm": "D & M Smoked Fish, Inc.",
+   "state": "NY",
+   "class": "Class I",
+   "date": "2026-11-18"
+  },
+  {
+   "product": "Fresh To You Sausage, Egg & Cheese Biscuit Sandwich, net weight. 4.6 oz (131g). Refrigerated breakfast sandwich sold to the general population, packaging is fle",
+   "reason": "Possible Listeria monocytogenes contamination.",
+   "firm": "Fresh & Ready Foods Llc",
+   "state": "WA",
+   "class": "Class I",
+   "date": "2026-11-18"
+  },
+  {
+   "product": "Brad's Veggie Chips Kale, 3 oz (85g) bags with UPC UPC 854615002054.",
+   "reason": "Products may contain elevated levels of thallium",
+   "firm": "Snack Right Super Foods, Inc.",
+   "state": "PA",
+   "class": "Class II",
+   "date": "2026-11-18"
+  },
+  {
+   "product": "Alfalfa Sprouts hydroponically grown. 4oz Alfalfa Sprouts were packaged in zip lock style bag and 1lb Alfalfa Sprouts were packaged in gusseted plastic bag. Pro",
+   "reason": "Potential E. coli and Salmonella contamination",
+   "firm": "Francisco Family Foods",
+   "state": "MT",
+   "class": "Class I",
+   "date": "2026-11-18"
+  },
+  {
+   "product": "365 Whole Foods Market Standardized + Full Spectrum Blend Ashwagandha Capsules 120 count. Product Item Number: 3006661. 120 ct powder capsules in a 200cc bottle",
+   "reason": "Possible Salmonella contamination.",
+   "firm": "Vitality Works, Inc",
+   "state": "NM",
+   "class": "Class I",
+   "date": "2026-11-11"
+  },
   {
    "product": "Raw milk cheddar cheese packed in vacuum sealed clear plastic with a white, red and green label which reads in part as, \"FAMILY FARMSTEAD MILD RAW CHEDDAR - AGE",
    "reason": "Potential contamination with E. coli (pathogenic non-O157 STEC).",
@@ -16,110 +120,6 @@
    "state": "NY",
    "class": "Class I",
    "date": "2026-11-11"
-  },
-  {
-   "product": "Starfish Seafood Cold Smoked Trio Salmon Halibut Trout",
-   "reason": "Contaminated with Listeria monocytogenes",
-   "firm": "Krasnyi Oktyabr Inc",
-   "state": "NY",
-   "class": "Class I",
-   "date": "2026-11-11"
-  },
-  {
-   "product": "365 Whole Foods Market Standardized + Full Spectrum Blend Ashwagandha Capsules 120 count. Product Item Number: 3006661. 120 ct powder capsules in a 200cc bottle",
-   "reason": "Possible Salmonella contamination.",
-   "firm": "Vitality Works, Inc",
-   "state": "NM",
-   "class": "Not Yet Classified",
-   "date": "2026-11-11"
-  },
-  {
-   "product": "Little Temptations, Chocolatey Eyeballs (Hazelnut Praline Chocolatey Eyeballs ) Spooks and Spells, The product comes in the following sizes: Card Header Bag - 1",
-   "reason": "Product packaging mix-up. Product containing whey (milk), were distributed in packaging that did not reveal the presence of milk.",
-   "firm": "Crystal Temptations",
-   "state": "NJ",
-   "class": "Class II",
-   "date": "2026-11-11"
-  },
-  {
-   "product": "Gelatelli NATURALLY FLAVORED COFFEE & VANILLA GELATO WITH COFFEE SAUCE & COOKIE PIECES 16FL OZ (1PT) 475 mL UPC 4 056489 722458 DISTRIBUTED BY: LIDL US, LLC, AR",
-   "reason": "Listeria monocytogenes. The firm received positive test result of Listeria monocytogenes in the product.",
-   "firm": "Lidl Us Trading",
-   "state": "VA",
-   "class": "Class I",
-   "date": "2026-11-11"
-  },
-  {
-   "product": "Boner Bears Chocolate Syrup, Serving size 15g, Dosage: Consume 1 Piece At Least 1 Hour Prior To Activity. Do Not Exceed 1 Piece In Any 48 Hour Period, MANUFACTU",
-   "reason": "FDA analysis revealed the presence of undeclared sildenafil.",
-   "firm": "Lockout Industries, Llc",
-   "state": "TX",
-   "class": "Class I",
-   "date": "2026-11-11"
-  },
-  {
-   "product": "WinCo Foods Hoagie Rolls, 6 rolls/bag. Product is packaged in clear plastic bag with red banner. Net Wt. 16oz (1LB) 454g. UPC 0 70552 00649 2. Distributed By: W",
-   "reason": "Undeclared Sesame",
-   "firm": "Winco Foods Llc",
-   "state": "ID",
-   "class": "Class I",
-   "date": "2026-11-11"
-  },
-  {
-   "product": "ParaBien Al Grano with UPC: 0 21425 01513 4",
-   "reason": "Contains undeclared sesame",
-   "firm": "Pan Pepin, Inc.",
-   "state": "PR",
-   "class": "Class I",
-   "date": "2026-11-11"
-  },
-  {
-   "product": "Ethel's Gluten Free Turtle Dandy Dessert Bars 6oz, UPC 8 50054 16601 2, 6 retail units per case",
-   "reason": "Product mix-up resulting in incorrect product identity, inaccurate ingredient declaration (extra ingredients declared that are not present in the product), and inaccurate Nutrition Facts.",
-   "firm": "Ethel'S Bakery, Llc",
-   "state": "MI",
-   "class": "Class III",
-   "date": "2026-11-11"
-  },
-  {
-   "product": "Bulk packaged Seitan Cubes; 2/ 5-pound vacuumed seal packages per case. Case is generic brown cardboard with product and company information label on the outsid",
-   "reason": "Product label missing ingredient statement and allergen ingredient (wheat)",
-   "firm": "House Foods America Corporation",
-   "state": "CA",
-   "class": "Class I",
-   "date": "2026-11-11"
-  },
-  {
-   "product": "DTF SEXUAL CHOCOLATES, UPC CODE: 757817783069, Supplier Part Number: DTF-BAR-20CT, Manufactured by or for Megladon, LLC. 2 bars per package, 22 packages per box",
-   "reason": "Product contains undeclared sildenafil and tadalafil.",
-   "firm": "Nalpac Ltd.",
-   "state": "MI",
-   "class": "Class I",
-   "date": "2026-11-11"
-  },
-  {
-   "product": "Gluten Free Truly AIP Rustic Bread Mix, 14 oz",
-   "reason": "Products are recalled due to potential undeclared wheat gluten",
-   "firm": "Gf Blends Inc",
-   "state": "WA",
-   "class": "Class I",
-   "date": "2026-11-04"
-  },
-  {
-   "product": "EDEN BROTHERS Broccoli Seeds - Calabrese. Sold in packets, Net Wt. 1oz pouches, UPC SVBRO111 -qb2 & 1 Pound pouches UPC SVBRO111 -qb4.",
-   "reason": "Salmonella",
-   "firm": "Eden Brothers",
-   "state": "NC",
-   "class": "Class I",
-   "date": "2026-11-04"
-  },
-  {
-   "product": "Miyoko's Creamery European Style Salted Plant Milk Butter, Net Wt. 8 OZ (227G). UPC 857554005773. Distributed By: Prosperity Organic Foods, Inc. Boise, Idaho 83",
-   "reason": "Product recalled due to yeast, mold, and E. coli.",
-   "firm": "Prosperity Organic Foods Inc",
-   "state": "ID",
-   "class": "Class II",
-   "date": "2026-11-04"
   }
  ]
 }

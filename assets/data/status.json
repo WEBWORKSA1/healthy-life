@@ -1,5 +1,5 @@
 {
- "ran": "2026-11-24T22:37:51.808035+00:00",
+ "ran": "2026-11-25T08:52:34.907838+00:00",
  "feeds": {
   "World Health Organization": "ok: 0 (parsed 79; first date '2026-10-10T07:49:45+00:00')",
   "NIH": "ok: 9",
@@ -13,7 +13,7 @@
   "Topic: exercise research": "ok: 6",
   "Topic: sleep research": "ok: 6",
   "Topic: stress and wellbeing": "ok: 6",
-  "Topic: loneliness and connection": "ok: 3"
+  "Topic: loneliness and connection": "ok: 4"
  },
  "channels": {
   "World Health Organization": "ok: 1",
