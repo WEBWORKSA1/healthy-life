@@ -1,5 +1,5 @@
 {
- "ran": "2026-11-25T08:52:34.907838+00:00",
+ "ran": "2026-11-25T21:51:07.107896+00:00",
  "feeds": {
   "World Health Organization": "ok: 0 (parsed 79; first date '2026-10-10T07:49:45+00:00')",
   "NIH": "ok: 9",
@@ -9,18 +9,18 @@
   "NPR Health": "ok: 1",
   "BBC Health": "ok: 7",
   "The Conversation": "ok: 4",
-  "Topic: healthy eating research": "ok: 6",
-  "Topic: exercise research": "ok: 6",
-  "Topic: sleep research": "ok: 6",
-  "Topic: stress and wellbeing": "ok: 6",
-  "Topic: loneliness and connection": "ok: 4"
+  "Topic: healthy eating research": "failed: HTTPError",
+  "Topic: exercise research": "failed: HTTPError",
+  "Topic: sleep research": "failed: HTTPError",
+  "Topic: stress and wellbeing": "failed: HTTPError",
+  "Topic: loneliness and connection": "failed: HTTPError"
  },
  "channels": {
   "World Health Organization": "ok: 1",
   "CDC": "ok: 3",
   "Mayo Clinic": "ok: 3",
   "Cleveland Clinic": "ok: 3",
-  "Johns Hopkins Medicine": "ok: 1",
+  "Johns Hopkins Medicine": "ok: 0",
   "Yoga With Adriene": "ok: 3",
   "Fitness Blender": "ok: 3",
   "HASfit": "ok: 3",
@@ -32,7 +32,7 @@
   "Headspace": "ok: 3",
   "Dr. Tracey Marks": "ok: 3",
   "TED-Ed": "ok: 2",
-  "SciShow": "ok: 2",
+  "SciShow": "ok: 3",
   "Kurzgesagt": "ok: 1",
   "Doctor Mike": "ok: 0",
   "MadFit": "ok: 3",
