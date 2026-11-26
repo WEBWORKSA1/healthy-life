@@ -1,6 +1,41 @@
 {
- "updated": "2026-11-26T08:38:54.593520+00:00",
+ "updated": "2026-11-26T21:44:42.224220+00:00",
  "items": [
+  {
+   "title": "Chief medical officer Gregor Smith resigns on mental health grounds",
+   "url": "https://www.bbc.co.uk/news/videos/cme8732p1928o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Health",
+   "date": "2026-11-26T18:44:26+00:00",
+   "pillar": "mind"
+  },
+  {
+   "title": "Loneliness is making us sick, but we may be treating it all wrong",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261124055906.htm",
+   "source": "ScienceDaily",
+   "date": "2026-11-26T11:32:30+00:00",
+   "pillar": "connect"
+  },
+  {
+   "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
+   "url": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Health",
+   "date": "2026-11-26T11:00:39+00:00",
+   "pillar": "prevent"
+  },
+  {
+   "title": "Exercise and brain training may preserve vulnerable brain regions",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVVlyQk5CVllGSGpnYWlkR19Gb0EyVjZ3Tnc2VjZMUW9NMktILTNXYXpFWnhNRllzdExMZHVrMW1pLUxBM0kxNWg3YkZJdTYwTG1RS0FKdS01ZE1qU1owUEVvTWdObjM1RmJHQ2hPR2VRT0MyM2p2NW4wTjhGUXFhcEw2STc1aXhnLXVKMVlqQUM5MlhxVGZ6Um5CYWR0ZmtxcERnRm5MYXNoZl83QVlZRVV1dw?oc=5",
+   "source": "News-Medical",
+   "date": "2026-11-26T10:47:00+00:00",
+   "pillar": "move"
+  },
+  {
+   "title": "Yoga: Another way to prevent osteoporosis?",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUm5qOXRlMkJwNEpObV9Cd0ltOEtXSXM0NHgyb3h4YnJ4MXBjcThpbkhKemIwWlhQalFuS0ZqYlVoOEF5dVFwSFJwMzlHXy14aWI3VWV2bW56Wi1vdHN5M1ZSQ05mNTJ1d2NqVUFjT05wdXBTVGNMbWI3WXpBT05ZMmRwaXBOM2tVeHpKOQ?oc=5",
+   "source": "Harvard Health",
+   "date": "2026-11-26T08:08:02+00:00",
+   "pillar": "move"
+  },
   {
    "title": "Mindfulness may protect mental health from social media harms",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVHZPUWs2eTlSdXVUZFBvcGF0N3d0RmFxbVV5U0VTNy1zWEVaWlpILWlzSWprX19KUFpmRTRUN00yekJLbmFYN05lelJaVVhsLU85UHRzaUZmNkxRYVJNYnV4QUhad2MtSDJBV094aFFENzNXTWZRTFI3N2JSeWlITWM5TXhLYW1NN01FWUVPS1NlVXc1MDFIdVZMdDA1Q1hPTFlsRmp1LXpFR1FDNGc?oc=5",
@@ -14,13 +49,6 @@
    "source": "News-Medical",
    "date": "2026-11-26T02:15:16+00:00",
    "pillar": "sleep"
-  },
-  {
-   "title": "Culturally relevant nutrition interventions can engage Black adults more effectively",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNUtiVTRWWFJLR3NSZm5GSTlSZ3dVQXZ1bzl4NTZQRjJoT3hOZDFJRFhMdHJJZE45WjZ0Q0JzR0U3NVZ5b2hFb3BtZFc3QUlGX2VzcDZJQ0ZGX0N0ZzBBajcxU19uWkZzOXB1QWVRdFhRM1RwX0Q4dUhUS2FtZk1lRi1jZXo2MnhrclN6bWtqNlRVSTZpOWRxVktR?oc=5",
-   "source": "Medical Xpress",
-   "date": "2026-11-26T00:30:01+00:00",
-   "pillar": "nourish"
   },
   {
    "title": "Gut microbiome may shape blood sugar benefits of whole grains",
@@ -38,9 +66,9 @@
   },
   {
    "title": "Mindfulness is linked to better mental health and more beneficial social media use",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNblptSXlNb0FTQXhKdXFrNmRyNHdPTjVhVlJ3RlhCdXRmWVViaWJXdkcyQU1PUVdwX2lxcnp4ci1jem5kWjJZbFhtQkE1cHpzeW1JYnNKcjc0VlB0bVpJbFZicWJkaE1mSUtQLVd4ZmVTdk9DaEhrUnFvMGdubUV2cHBXbHZ5NUFJOXRpX2x2VVo?oc=5",
-   "source": "Medical Xpress",
-   "date": "2026-11-25T19:00:19+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zVGR6dWdRWDBibjZ5dS1EYkctXzQ2ajl1bXA5SFBOMWM4cnMzVGpNSnVqVXVueUM4TEtaMmIyUXBsSUt2NDlzUTJ3eGt5eFgwYXhHaGZodm43VGd1?oc=5",
+   "source": "EurekAlert!",
+   "date": "2026-11-25T19:59:50+00:00",
    "pillar": "mind"
   },
   {
@@ -56,6 +84,13 @@
    "source": "Medical Xpress",
    "date": "2026-11-25T15:10:01+00:00",
    "pillar": "nourish"
+  },
+  {
+   "title": "Q&A: Can short, animated videos boost screen mindfulness?",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wV2RLTmpBSVNUS2tkWU1QcnhmN2VYMHhQampZaHk1MTQ0WGJxOGY4Z2thMlBzWVloSUl5NkQtUkg1dVlZbFNlMXY4RXdnVWdVell3QTY2eFZLTnEyZzNkSHI4N3RWVG53N2hHT0tzMWwxbDhSMlNaY0VhN2tVMGM?oc=5",
+   "source": "Medical Xpress",
+   "date": "2026-11-25T14:40:01+00:00",
+   "pillar": "mind"
   },
   {
    "title": "Oral nutrition supplements prove cost-effective for malnourished older adults",
@@ -121,11 +156,25 @@
    "pillar": "move"
   },
   {
-   "title": "What Happened When I Took a Cold Shower Every Morning To Improve My Mood and Energy",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaUctMk9EY3lIRzFZZkRrUTZhQjQ5UzlybGRwellVWExoMklyc0lnc1ppdjFDQVVQU3NMZXpXWXYzNHNURzNTbkZfRC1fbHFKMmU0eUxVYmV1SzZoUWZsMHVTU1NuRlllYkFoSUY1cWRqeXh1SFpaOC1BLTVDTVU3Sml2aGlzemIx?oc=5",
-   "source": "Verywell Mind",
-   "date": "2026-11-24T11:52:21+00:00",
-   "pillar": "mind"
+   "title": "Want to Build Muscle? These Are the 6 Protein Powders Our Editors Trust",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2Rno4MWVqbkZoRzhXYjQ5eHJnSG5QS1JHTTdISy12S21RVFprdDVzVmJMUHBoUGJJckhUQ182ZHBCMXRjYlQ4Ry12VUhsRUR2bFpKNEpuY3g4VUMwWm5zVE8yc3Q5WWRjanJFQlRyS3piMGxka2Mw?oc=5",
+   "source": "Men's Health",
+   "date": "2026-11-24T17:05:00+00:00",
+   "pillar": "nourish"
+  },
+  {
+   "title": "Most people aren’t sleeping enough. Here’s how much you really need",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMmRxMGxFY3BWa1lVdTdJcHFlRG5Bdm1hcGdpSFlFZTZkTDU5VWk3MW95dTF2T0t3NXBhS2xrakRXZkFaY0lJbUo4WVZGNU5PNXRRaWpPdW54dC1hNGNHVE1wS2FUSEhDd0xSd3pfN2I0YXdxc1hNX3B4WjNWSlVfQUk5TzFHYlJ3Qnh1bU9KcmJsSjh5V3NQN1dUU0o1X2ZEM1BV?oc=5",
+   "source": "The Independent",
+   "date": "2026-11-24T16:06:00+00:00",
+   "pillar": "sleep"
+  },
+  {
+   "title": "New Study in Over-40s Finds Creatine Can Add Strength & Size Without Exercise. Over 60? It Gets Even Better",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNHZVRHJWZlp0bjhsb3VWcHU2bllyZW41eDAyYmhSMDZsLTZEOHpZWV9zbXVvVS1rUjM0RWV1R0otMVFFNkcxR2I1WlRzRklwb1gtS01YcFU4WV8yQXJsVnFpUUtYOGxGc2lRNjZUYk1DRUFkT3FCOXREV1FrRm5YRDlB?oc=5",
+   "source": "Men's Health",
+   "date": "2026-11-24T15:18:32+00:00",
+   "pillar": "move"
   },
   {
    "title": "Association between sleep health and ocular diseases: a population-based study",
@@ -163,6 +212,13 @@
    "pillar": "move"
   },
   {
+   "title": "Can Reading Books Increase Your Lifespan? What the Research Says About Longevity Benefits",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xUlRYSUtheFVLMWNDODlaRFV1aDhJNVVCU1dneFVBVEw5SnVtRWZxSFR0YjFKVU9IR3YtaFhNMmNKaXp6UlFCekE2YzdyNmJ5UXBGR3hfYUxwZGtya21mM2lGMHpHZ0NfMjZDM2xLbFY4QTV3SnpsYkJ5TGJzb3c?oc=5",
+   "source": "Verywell Mind",
+   "date": "2026-11-24T08:00:00+00:00",
+   "pillar": "mind"
+  },
+  {
    "title": "Depression may be an early warning sign of Alzheimer's disease",
    "url": "https://www.sciencedaily.com/releases/2026/11/261121221134.htm",
    "source": "ScienceDaily",
@@ -189,20 +245,6 @@
    "source": "FDA",
    "date": "2026-11-23T15:55:37+00:00",
    "pillar": "prevent"
-  },
-  {
-   "title": "Long COVID may slow how muscles respond to exercise",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVWtCSkdOaDc2eVVuZi1zVnJuRkg2Q0JEb2szZnR4REhwMVBtMktYVUdEakZXNkRtLUt0dEZEWkkxUTllc3dGZ3VlU0o1NWl5QkM1MG9tYVJBSC0xSzhuc3c4MXZOZEMtd1pfZUwxQ2NPSElwNzNBSjhPUGh6ZTY1ck4zbHZxT0JSMzhFcldZcGVsV3FHTXNBV1JQWkw2TkhZ?oc=5",
-   "source": "News-Medical",
-   "date": "2026-11-23T13:30:00+00:00",
-   "pillar": "move"
-  },
-  {
-   "title": "UW-Platteville engineering instructor wins federal grant to study student stress",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVE5WcEctTWNPRF9vaGQ2eUF6eXZjVV91cW9rWXVlTW13ak1qNmR0M0RsX0FTWkVlcTk1c045bUVRRHVVZjM1ZVVqWmJWZTNRdXBKcnB4TlMxcHcwVDUwOFRnTEpabFlxQVRGcG01M1BrVl9yWXhuMGxUNDZBM28xVU1wbnZqS0RvR1QwaFJxV2puckJNcW9XZXFXajFqN29HTVFyclhlOWRvdw?oc=5",
-   "source": "University of Wisconsin-Platteville",
-   "date": "2026-11-23T08:00:00+00:00",
-   "pillar": "mind"
   },
   {
    "title": "U.S. loses measles elimination status after 25 years as vaccine myths persist",
@@ -233,13 +275,6 @@
    "pillar": "mind"
   },
   {
-   "title": "Men's fishing group is the hook to better mental health",
-   "url": "https://www.bbc.co.uk/news/videos/c68x0qxxw4xjo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Health",
-   "date": "2026-11-22T08:33:55+00:00",
-   "pillar": "mind"
-  },
-  {
    "title": "Nurosym Announces Wearable VNS Device as UK Interest in Sleep Health Increases",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON1J3RjRZSjdQWTlTV0otbGRRNXZMeC1valk2akNpT1ZnX29MaldpczZIeS1KcTY3ZkV0SE9WczNKLTFIVWhNQ2w3NTZkU0FzOVg1S0VTX095Q25qc1lFS21jUnVhRDdrdERpbmlNWjZpeUVpYzgyaDZHUkI5VHZvTTYybDREeDV0eEdrYmlzOW96T2QyUGVBNE9mVGtsVGpYbTFNdWZMMmNWbTlPUHJ5bFRWTUFlZE5VclZGNm9xM1VFTU5hNGZCY193?oc=5",
    "source": "USA Today",
@@ -254,39 +289,11 @@
    "pillar": "prevent"
   },
   {
-   "title": "Nearly half of adults over 70 benefited from exercise training across several areas of physical function",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUGVYRzJXdEZtUlUtei1oRzdfZlRmemxRYUxnWUZNTk1TLTZEVi1YSjkxMlYwS2VZTFJaWTk5S3hWRGF0VFFfQ3VLODJkLUFfeTlwcGlIR0ZKMEdyU0VDUFVhYUIzSzlrcndTYnJXWnNjSVFQMnlJb25GUGFwWW1nYnJ5RDYwQjFLTTIwSg?oc=5",
-   "source": "Medical Xpress",
-   "date": "2026-11-20T19:00:20+00:00",
-   "pillar": "move"
-  },
-  {
-   "title": "Column | Just one minute of this activity may cut blood sugar spikes by 40 percent",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVlNBSFVmOHYwUjNGaUJUc1R5Ul9YUFZ4bTQtWXZZM2JScU9HbndhZmQ3QTIyU1BCT3BsOXEzOWtkWW9lZi1vQWxoZ1JxRHVab0hGdkJzRGdoeVhYVUlQZ000ekt2M3FycEJnelV0amZOUFNPSDNDdC1jUmMxVDlpWVlHV0N4UFRnSjdEY1djYUhncE16M3BOMm80TlFfdmVJU0JEVlBMeTJucm9FV1ZSQk9KY0NUa2FfMXRCalFxVQ?oc=5",
-   "source": "The Washington Post",
-   "date": "2026-11-20T18:00:00+00:00",
-   "pillar": "move"
-  },
-  {
-   "title": "When sleeping for nine hours isn’t a good sign — study",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMy1SRlhhM21vR1RtenVzWUY2bDNxbDU3NWRBUWFuTnVab3BCRF9HbjdZM2x4MFZBRDIzdFRodnhTa0NrT1I1cTh2VkZVSXRvd3ZDVkpmUmNVRXdoVTlwcExMN1dBeGVKSU5seFZ3V19Hc1BTZHZjWVB2azV1U2tsZXFvNW5LRXBQMGY1S2t5QUtmY2RfelRsTGxn?oc=5",
-   "source": "The Independent",
-   "date": "2026-11-20T16:05:00+00:00",
-   "pillar": "sleep"
-  },
-  {
    "title": "Preventable vision loss affects more than a billion people globally - and uneven access to care is the major culprit",
    "url": "https://theconversation.com/preventable-vision-loss-affects-more-than-a-billion-people-globally-and-uneven-access-to-care-is-the-major-culprit-294770",
    "source": "The Conversation",
    "date": "2026-11-20T13:43:49+00:00",
    "pillar": "prevent"
-  },
-  {
-   "title": "Keto diet slashes liver fat by 67% in just 4 months",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261120070904.htm",
-   "source": "ScienceDaily",
-   "date": "2026-11-20T12:44:39+00:00",
-   "pillar": "nourish"
   },
   {
    "title": "Large NIH-supported study identifies key underlying pathways in endometriosis",
@@ -317,13 +324,6 @@
    "pillar": "prevent"
   },
   {
-   "title": "Column | Here’s a science-backed way to counteract loneliness",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNFRqSUdyaUhiYk8wcW9WNEFSYTFVV3hpbmRBTEFzUzJ1YlR2RGlVOUlQYjhvUFVHYlNXbjViLWtfcUl0VFZRNEI0OWJnZkx1aFdKaEZodENRMFdvVXhZdlM5OUZ0LThyMm9hYlFUWWllNFJNSnFTRU40Nll6enlWVGpBWklJamRBekpjY3hpc1ZMQm1tLUNSeUd3anhvemc0R1V6UURsY2hBaGlxb240SERlX1Fydm8ySUE?oc=5",
-   "source": "The Washington Post",
-   "date": "2026-11-18T18:00:00+00:00",
-   "pillar": "connect"
-  },
-  {
    "title": "Social isolation and loneliness is associated with worse physical and mental health among middle-aged and older adults",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTERMZWlfTFlETXl2RTJleEY5YXpCS000T0FqdUpXcXFVaFdablFOc0IxM0VtNFlwNFdQcktZRHVrMFFEbmNzaEd0RWp6aGFCaURBaFBHNXlKMnZ0TUVOM2dQV1BMd2xwZkZTZmt2Q3pobTZaQk1BbFFWb2Z4T01DaWFTN2NCZWY4S2N1MU56cGtsczhzRDcwbFNRM0ZDQVdYZ2xvQ3dNQVNQM0JhNDNWbERUYnZuUWZjbHhxdzBtSjRiLXdXcFZYT2E3ZV90cEZRc2F2TXVRcTcwRmhIRVFfVF84al9MUQ?oc=5",
    "source": "2 Minute Medicine",
@@ -331,10 +331,10 @@
    "pillar": "connect"
   },
   {
-   "title": "Study reveals common lifestyle factor that is strongly linked to dementia",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbjVUTEVrWHBVbFdzak1sRGVHVF9lTmFYSkhldUtqNmlsQmVVNUpvSkdSTmhkWWN4UU44QmRVLWFiSWlGY0Uta2VuX09Ic09PX01TUWJScDlpb3JscVVINnc1WFNUSmVRc1RxZENGWm9NSFpaSFYzQzJ4T3B5Tm9UV0hncjdWQzFBaDFES1ZlNzFqNGJIbnI5dzd4WQ?oc=5",
-   "source": "The Independent",
-   "date": "2026-11-18T06:05:00+00:00",
+   "title": "Column | Here’s a science-backed way to counteract loneliness",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNFRqSUdyaUhiYk8wcW9WNEFSYTFVV3hpbmRBTEFzUzJ1YlR2RGlVOUlQYjhvUFVHYlNXbjViLWtfcUl0VFZRNEI0OWJnZkx1aFdKaEZodENRMFdvVXhZdlM5OUZ0LThyMm9hYlFUWWllNFJNSnFTRU40Nll6enlWVGpBWklJamRBekpjY3hpc1ZMQm1tLUNSeUd3anhvemc0R1V6UURsY2hBaGlxb240SERlX1Fydm8ySUE?oc=5",
+   "source": "The Washington Post",
+   "date": "2026-11-18T08:00:00+00:00",
    "pillar": "connect"
   },
   {
