@@ -1,5 +1,5 @@
 {
- "ran": "2026-11-25T21:51:07.107896+00:00",
+ "ran": "2026-11-26T08:38:54.593520+00:00",
  "feeds": {
   "World Health Organization": "ok: 0 (parsed 79; first date '2026-10-10T07:49:45+00:00')",
   "NIH": "ok: 9",
@@ -9,11 +9,11 @@
   "NPR Health": "ok: 1",
   "BBC Health": "ok: 7",
   "The Conversation": "ok: 4",
-  "Topic: healthy eating research": "failed: HTTPError",
-  "Topic: exercise research": "failed: HTTPError",
-  "Topic: sleep research": "failed: HTTPError",
-  "Topic: stress and wellbeing": "failed: HTTPError",
-  "Topic: loneliness and connection": "failed: HTTPError"
+  "Topic: healthy eating research": "ok: 6",
+  "Topic: exercise research": "ok: 6",
+  "Topic: sleep research": "ok: 6",
+  "Topic: stress and wellbeing": "ok: 6",
+  "Topic: loneliness and connection": "ok: 4"
  },
  "channels": {
   "World Health Organization": "ok: 1",
