@@ -1,5 +1,5 @@
 {
- "ran": "2026-11-27T08:49:50.296991+00:00",
+ "ran": "2026-11-27T21:29:12.870432+00:00",
  "feeds": {
   "World Health Organization": "ok: 0 (parsed 79; first date '2026-10-10T07:49:45+00:00')",
   "NIH": "ok: 9",
@@ -12,32 +12,32 @@
   "Topic: healthy eating research": "ok: 6",
   "Topic: exercise research": "ok: 6",
   "Topic: sleep research": "ok: 6",
-  "Topic: stress and wellbeing": "ok: 5",
-  "Topic: loneliness and connection": "ok: 3"
+  "Topic: stress and wellbeing": "ok: 6",
+  "Topic: loneliness and connection": "ok: 5"
  },
  "channels": {
   "World Health Organization": "ok: 2",
-  "CDC": "ok: 3",
-  "Mayo Clinic": "ok: 3",
+  "CDC": "failed: HTTPError",
+  "Mayo Clinic": "failed: HTTPError",
   "Cleveland Clinic": "ok: 3",
-  "Johns Hopkins Medicine": "ok: 0",
+  "Johns Hopkins Medicine": "failed: HTTPError",
   "Yoga With Adriene": "ok: 3",
-  "Fitness Blender": "ok: 3",
-  "HASfit": "ok: 3",
-  "Bob & Brad": "ok: 3",
-  "Pick Up Limes": "ok: 3",
-  "Downshiftology": "ok: 3",
-  "Nutrition Made Simple": "ok: 3",
-  "Therapy in a Nutshell": "ok: 3",
-  "Headspace": "ok: 3",
-  "Dr. Tracey Marks": "ok: 3",
+  "Fitness Blender": "failed: HTTPError",
+  "HASfit": "failed: HTTPError",
+  "Bob & Brad": "failed: HTTPError",
+  "Pick Up Limes": "failed: HTTPError",
+  "Downshiftology": "failed: HTTPError",
+  "Nutrition Made Simple": "failed: HTTPError",
+  "Therapy in a Nutshell": "failed: HTTPError",
+  "Headspace": "failed: HTTPError",
+  "Dr. Tracey Marks": "failed: HTTPError",
   "TED-Ed": "ok: 2",
   "SciShow": "ok: 3",
   "Kurzgesagt": "ok: 1",
-  "Doctor Mike": "ok: 0",
-  "MadFit": "ok: 3",
-  "Jeff Nippard": "ok: 3",
-  "Healthcare Triage": "ok: 3"
+  "Doctor Mike": "failed: HTTPError",
+  "MadFit": "failed: HTTPError",
+  "Jeff Nippard": "failed: HTTPError",
+  "Healthcare Triage": "failed: HTTPError"
  },
  "recalls": "ok: 15"
 }
